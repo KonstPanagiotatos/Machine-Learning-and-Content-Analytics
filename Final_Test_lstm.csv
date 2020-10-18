@@ -1,0 +1,1245 @@
+,sentence,label
+0,exploration corrective measures greenhouse gas emission fossil fuel power stations bangladesh,NO LABEL
+1,abstract,NO LABEL
+2,greenhouse gas emission increasing alarmingly due bulk electricity generation fossil fuel coal gas oil limited stock,NO LABEL
+3,researchers struggling minimize emission using suitable mitigation techniques including renewable energy sources government bangladesh implementing several coal based power plants,NO LABEL
+4,paper presents mathematical model parameters related greenhouse gas emission demonstrates emission rates resulting various fuels used bangladeshi power plants,NO LABEL
+5,greenhouse gas emission existing fossil fuel power plants using homer hybrid optimization multiple energy resources software analyzed research,NO LABEL
+6,result shows power plants coal diesel natural gas emit 0 90 kg 0 76 kg 0 566 kg co2 per kwh respectively,EVIDENCE
+7,furthermore several greenhouse gas mitigating procedures proposed fossil fuel based power generating stations,NO LABEL
+8,exploration household energy choice expenditure bangladesh,NO LABEL
+9,globally 1 3 billion people access electricity 3 0 billion people rely biomass firewood cooking,NO LABEL
+10,projected 2030 1 billion people access electricity 2 4 billion people continue depend firewood biomass cooking,NO LABEL
+11,widely documented use firewood biomass household chores detrimental impacts human health indoor air pollution,NO LABEL
+12,massive use firewood biomass lead deforestation environmental degradation,NO LABEL
+13,therefore imperative ensure use clean energy electricity gas household chores,CLAIM
+14,encourage use clean energy factors affect household choice energy must understood,NO LABEL
+15,using information collected 29 000 households bangladesh study econometrically demonstrates incidence reliance clean energy high among households headed relatively highly educated wealthy heads spouses,NO LABEL
+16,particularly households use clean energy progressively increase income,EVIDENCE
+17,based findings study suggests specific policies encourage use clean energy household chores,CLAIM
+18,cooking season risk factors acute lower respiratory infections african children cross sectional multi country analysis,NO LABEL
+19,background,NO LABEL
+20,acute lower respiratory infections alri leading cause death among african children five,NO LABEL
+21,significant proportion attributable household air pollution solid fuel use,NO LABEL
+22,methods,NO LABEL
+23,assessed relationship cooking practices alri pooled datasets demographic health surveys conducted 2000 2011 countries sub saharan africa,NO LABEL
+24,impacts main cooking fuel cooking location stove ventilation examined 18 n 56 437 9 n 23 139 6 countries n 14 561 respectively,NO LABEL
+25,used causal diagram multivariable logistic mixed models assess influence covariates individual regional national levels,NO LABEL
+26,results,NO LABEL
+27,main cooking fuel statistically significant impact alri risk p 0 0001 season acting effect modifier p 0 034,NO LABEL
+28,rainy season relative clean fuels odds suffering alri raised kerosene 1 64 ci 0 99 2 71 coal charcoal 1 54 ci 1 21 1 97 wood 1 20 ci 0 95 1 51 lower grade biomass fuels 1 49 ci 0 93 2 35,EVIDENCE
+29,contrast dry season corresponding odds reduced kerosene 1 23 ci 0 77 1 95 coal charcoal 1 35 ci 1 06 1 72 lower grade biomass fuels 1 07 ci 0 69 1 66 increased wood 1 32 ci 1 04 1 66,EVIDENCE
+30,cooking location also emerged season dependent statistically significant p 0 0070 determinant alri particular cooking indoors without separate kitchen rainy season 1 80 ci 1 30 2 50,EVIDENCE
+31,due infrequent use africa could however demonstrate effect stove ventilation,NO LABEL
+32,conclusions,NO LABEL
+33,found differential season dependent risks different types solid fuels kerosene well cooking location child alri,NO LABEL
+34,future household air pollution studies consider potential effect modification cooking fuel season,NO LABEL
+35,special issue quantitative finance commodity markets,NO LABEL
+36,abstract,NO LABEL
+37,past decades commodities derivative products gone boom bust cycles periods high low volatility also shown continued trend increased trading volumes well emerging new markets products,NO LABEL
+38,focus special issue draw together connected papers field quantitative finance dedicated increasingly important issue commodities,NO LABEL
+39,papers make important contributions terms new methodology techniques commodity classes econometrics risk management tools,CLAIM
+40,first paper ly csa moln r applies heterogeneous autoregressive har models high frequency data predict one day forward volatilities two strategically linked commodities gold silver,NO LABEL
+41,provide evidence difficult beat benchmark models using univariate models much better strategy average forecasts many models,NO LABEL
+42,second paper ewald nawar ouyang siu use popular schwartz 97 two factor approach study future contracts written fresh farmed salmon,NO LABEL
+43,futures actively traded fish pool market norway since 2006,EVIDENCE
+44,connect approach classical literature fish farming aquaculture using first principles starting modelling aggregate salmon farming production process modelling demand using cobb douglas utility function representative consumer,EVIDENCE
+45,g nc akyildirim introduce optimal pairs trading model verify performance commodity futures markets third paper,NO LABEL
+46,provide empirical evidence commodity futures indicate existence significant mean reversion together high peak fat tails distribution spread residuals,EVIDENCE
+47,consequence use ornstein uhlenbeck process noise term driven levy process generalized hyperbolic distributed marginals,EVIDENCE
+48,empirical examples backtesting results obtained commodity futures data show strong support profitability model even presence transaction costs,NO LABEL
+49,kyriakou pouliasis papapostolou focus fourth paper asian options,NO LABEL
+50,options favoured many risk managers effective cost saving hedging instruments due reduced variance underlying reduced exposure manipulative trading,NO LABEL
+51,paper empirical theoretical contributions conduct empirical analysis crude oil price dynamics develop accurate pricing set arithmetic asian options discrete continuous monitoring featuring stochastic volatility discontinuous underlying asset price movements,NO LABEL
+52,find price jumps stochastic volatility necessary fit options,NO LABEL
+53,fifth paper karathanasopoulos dunis khalil expand earlier work carried modelled crack spread 01 01 1995 01 01 2005,EVIDENCE
+54,paper combined pso particle swarm optimizer rbf radial basis function neural network nn however provides sophisticated approach non linear modelling crack,NO LABEL
+55,kellard tsvetanov coakley find news related future gdp growth significant factor priced cross section commodity futures sorted percentage net basis,EVIDENCE
+56,results presented sixth paper,NO LABEL
+57,show commodity futures high inventory levels provide hedge risk associated future gdp growth investors willing accept lower returns,CLAIM
+58,contrast commodity futures low inventory levels inversely related gdp related factors investors require higher return,NO LABEL
+59,results suggest commodity futures excess returns compensation risk,EVIDENCE
+60,paper seven stasinakis sermpinis psaradelis verousis study krill herd support vector regression kh vsvr model,NO LABEL
+61,krill herd kh algorithm novel metaheuristic optimization technique inspired behaviour krill herds,NO LABEL
+62,kh optimizes svr parameters balancing search local global optima,NO LABEL
+63,proposed model applied task forecasting trading three commodity exchange traded funds etfs daily basis period 2012 2014,NO LABEL
+64,shown kh vsvr outperforms counterparts terms statistical accuracy trading efficiency leverage strategy found successful,NO LABEL
+65,yang et al,NO LABEL
+66,propose two types dummy variables interval regression model assess impact economic shocks crises interval time series e g,NO LABEL
+67,daily intervals energy prices,NO LABEL
+68,present different economic interpretations two types dummy variables interval regression model,NO LABEL
+69,results presented paper eight,NO LABEL
+70,using proposed interval framework focus impact subprime mortgage crisis commodity market case study based monthly crude oil future price data,NO LABEL
+71,empirical results suggest strong evidence subprime crisis lowered level trend increased volatility crude oil prices,CLAIM
+72,africa 2030 sustainable energy goal focus access renewables clean fuels cooking,NO LABEL
+73,sustainable development goal 7 sdg 7 focuses ensuring universal access affordable reliable sustainable modern energy 2030,NO LABEL
+74,chapter uses twin indicators trend analysis compute baseline composite index,NO LABEL
+75,indicators 1 proportion population primary reliance clean fuels technology 2 share renewable energy total final energy consumption,EVIDENCE
+76,data drawn world development indicators,NO LABEL
+77,findings many african countries still lagging behind high chance meeting selected 2030 targets far fetched,NO LABEL
+78,fact declining trend access renewable energy slow growth towards access clean fuels technology,CLAIM
+79,supported opposing voices particularly labour unions favouring protection jobs sustained dirty sources energy posture pitched voices worried ever changing climate associated weather extremes like floods droughts hailstorms,EVIDENCE
+80,chapter recommends among issues scaling investments clean fuels related technologies well deployment renewable energy transition low carbon greener economies,NO LABEL
+81,multiple perspective modeling simulation approach renewable energy policy evaluation,NO LABEL
+82,abstract,NO LABEL
+83,environmental issues dependence fossil fuel sources including coal oil natural gas two prevalent energy issues currently faced united states,NO LABEL
+84,incorporation renewable energy sources non economical option electricity generation compared conventional sources burn fossil fuels promises viable solution issues single handedly,NO LABEL
+85,several energy policies concordantly suggested reduce financial burden adopting renewable energy technologies make technologies competitive conventional sources throughout us,NO LABEL
+86,work present novel simulation framework help policymakers assess evaluate policies different perspectives stakeholders,NO LABEL
+87,proposed framework composed four modules 1 database collates economic operational environmental data 2 elucidation policy devises policy simulation model 3 preliminary analysis makes predictions consumption supply prices 4 simulation model,NO LABEL
+88,validity proposed framework demonstrated series planned florida renewable energy policies implemented framework case study,NO LABEL
+89,results obtained simulation conclusions drawn assessment current energy policies presented respect conflicting objectives different stakeholders,NO LABEL
+90,governance renewable energy investment mena countries trade matter,NO LABEL
+91,abstract,NO LABEL
+92,middle east north africa mena countries recently developed renewable energy markets,NO LABEL
+93,however rate investment renewable energy remains small compared regions world despite relatively abundant endowments particularly wind solar,NO LABEL
+94,literature identifies barriers investment renewable energy assume investment mena countries could impeded specific governance factors,NO LABEL
+95,furthermore consider recent literature showing trade openness reduces negative effects weak governance,EVIDENCE
+96,paper empirically investigate link governance openness renewable energy investment mena region using panel data 15 mena countries period 1996 2013,NO LABEL
+97,results prove higher institutional quality associated investment mena countries,EVIDENCE
+98,addition relationship seems conditional trade regime,NO LABEL
+99,results robust several measures renewable energy investment governance well alternative econometric set,NO LABEL
+100,asymmetric extreme influence energy price changes renewable energy stock performance,NO LABEL
+101,abstract,NO LABEL
+102,promoting development renewable energy become key factor solve problems energy climate change issues,EVIDENCE
+103,however development largely constrained prices traditional fossil energy,NO LABEL
+104,paper explores influence various fossil energy price changes renewable energy stock returns using network approach,NO LABEL
+105,specifically positive negative returns network value risk var network constructed separately identifying asymmetric extreme information spillover,NO LABEL
+106,findings show fossil energy renewable energy network system relatively high level interdependence,EVIDENCE
+107,electricity market behaves major contributor changes renewable energy returns returns connectedness network oil coal contribute changes renewable energy returns var connectedness network,EVIDENCE
+108,dynamic results show contributions fossil energy price changes renewable energy returns strong time varying pattern high volatility time,EVIDENCE
+109,total connectedness positive returns network slightly stronger negative returns network time sample period,EVIDENCE
+110,renewable energy consumption economic growth nexus emerging countries bootstrap panel causality test,NO LABEL
+111,study analyzed relationship renewable energy consumption economic growth 17 emerging countries spanning period 1990 2016,NO LABEL
+112,bootstrap panel causality test allowing dependence across countries heterogeneity slope parameters developed k nya 2006 1 employed,NO LABEL
+113,results indicated neutrality hypothesis hold markets studied except poland confirmed growth hypothesis,NO LABEL
+114,nonexistence causality running renewable energy demand economic growth energy saving mitigation policies detrimental influence growth rates 16 emerging economies,NO LABEL
+115,poland however energy conservation policies may detrimental effects country economic performance level,NO LABEL
+116,relationship green public procurement criteria sustainability assessment tools applied office buildings,NO LABEL
+117,green public procurement gpp plays important role facing challenge reducing environmental impacts construction sector related products services works creating environmental innovative value society favour greener sustainable economy,NO LABEL
+118,european commission recently developed gpp criteria office buildings category,NO LABEL
+119,parallel building sustainability assessment bsa tools help estimate building impact environment based life cycle approach,NO LABEL
+120,many aspects measurable indicators included bsa tools clearly related criteria covered gpp,NO LABEL
+121,however important ones missing integrated ensure green procurement initiatives,EVIDENCE
+122,study critically reviews gpp criteria proposed office buildings crosschecks sustainability indicators included three bsa tools reinforce gpp framework office buildings sector,NO LABEL
+123,provides one hand evaluation rate improvement achieved tools applying gpp criteria proposal weighting system awarding points offers tenders,NO LABEL
+124,results help contracting authorities introduce objectivity tendering process make informed decisions evaluating bidders proposals,CLAIM
+125,effect financial development renewable energy consumption,NO LABEL
+126,panel data approach,NO LABEL
+127,one strategic objectives european union increase renewable energy consumption level market brings together technological financing customer engagement innovations,NO LABEL
+128,however little known impact financial sector renewable energy consumption,NO LABEL
+129,aim paper examine effect financial development renewable energy consumption using panel data 28 countries european union eu period 1990 2015,NO LABEL
+130,research based panel fixed effects model renewable energy consumption given function income energy prices financial development foreign direct investments,NO LABEL
+131,results empirical analysis show three different dimensions financial development banking sector bond market capital market positive effect share renewable energy consumption,EVIDENCE
+132,additionally results show capital market development influence renewable energy consumption new eu member states,EVIDENCE
+133,empirical results give valuable insights best deploy capital renewable sector order provide cost competitive options customers final objective expanding higher value added services,NO LABEL
+134,women assessments gender equality,NO LABEL
+135,abstract,NO LABEL
+136,women assessments gender equality consistently match global indices gender inequality,NO LABEL
+137,surveys covering 150 countries women societies rated gender unequal according global metrics education health labor force participation political representation consistently assess lives less control less satisfying men,NO LABEL
+138,women societies likely women index equal societies say equal rights men,NO LABEL
+139,attitudes toward gender issues reflect latent construct index equal societies although attitudes may begun converge recent years,NO LABEL
+140,findings reflect longstanding tension universal criteria gender equality emphasis subjective understandings women priorities,NO LABEL
+141,global regional estimates violence women,NO LABEL
+142,report presents global systematic review scientific data prevalence two forms violence women violence intimate partner intimate partner violence sexual violence someone partner non partner sexual violence,NO LABEL
+143,shows global regional estimates prevalence two forms violence using data around world,NO LABEL
+144,report details effects partner non partner sexual violence several aspects women health,NO LABEL
+145,shows women experienced intimate partner violence higher rates depression hiv injury death likely low birth weight babies,EVIDENCE
+146,though research health effects non partner sexual violence limited evidence clearly shows sexual violence long short term debilitating effects women mental health well,CLAIM
+147,report developed world health organization london school hygiene tropical medicine lshtm south african medical research council mrc,NO LABEL
+148,influence religion culture women rights property nigeria,NO LABEL
+149,paper seeks establish role religion culture realization women rights property nigeria,NO LABEL
+150,begins affirming protecting women rights property nigeria fundamental step towards achieving 5th sustainable development goal gender equality,NO LABEL
+151,promotion protection rights society determined several factors customs prevailing traditions well religious laws control behavioral patterns society,NO LABEL
+152,discussing within nigerian context paper explores tenets christianity islam govern women rights property,NO LABEL
+153,study used secondary data derived articles sourced google scholar,NO LABEL
+154,total nine articles reviewed,NO LABEL
+155,paper reveals culturally women viewed inferior men male child generally celebrated allotted higher portions properties,NO LABEL
+156,however tenets islam christianity disregard woman terms property rights,NO LABEL
+157,authors suggest prevailing discrimination women religion backing misguided exploitation low educational status women nigeria,NO LABEL
+158,journal articleopen access,NO LABEL
+159,gender equality un sustainable development goals priorities correlations top business schools communication legitimation strategies,NO LABEL
+160,abstract,NO LABEL
+161,gender equality still issue business schools since women mbas classrooms faculty management teams low representation,NO LABEL
+162,challenges caused lack financial aids salaries gap masculine model avoid better gender balance business graduate schools globally lead women personal professional development,NO LABEL
+163,main objective research analyse business schools communication priorities related gender equality projects policies sustainability reports considering fundamental tool corporate legitimacy,NO LABEL
+164,content analysis sustainable reports top 50 business schools world elaborate codes frequency report focusing goal 4 quality education relation scholarships grants allocation goal 5 gender equality explore correlations schools ranking positions price mba programmes percentage female mba students female faculty members women board directors different geographical areas europe us asia,NO LABEL
+165,results show gender equality related topics source positive impact legitimacy top business schools,NO LABEL
+166,gender differences leadership positions among academic nuclear medicine specialists canada united states,NO LABEL
+167,abstract,NO LABEL
+168,objective despite equal representation genders among medical students women continue underrepresented field academic diagnostic radiology,NO LABEL
+169,differences manifest across subspecialties academic medicine even diagnostic radiology,NO LABEL
+170,limited data available addressing diversity among nuclear medicine specialists,NO LABEL
+171,thus primary objective compare gender representation academic leadership positions among faculty members nuclear medicine canada united states,NO LABEL
+172,secondary objective study influences account existing disparity academic nuclear medicine,NO LABEL
+173,materials methods using fellowship residency electronic interactive database freida canadian resident matching service carms created database faculty members nuclear medicine,NO LABEL
+174,assessment academic performance h index number publications number citations years active research extracted using scopus,NO LABEL
+175,results academic ranks 237 faculty members used analysis group 16 95 associate professors female,NO LABEL
+176,women less frequently represented higher academic ranks women also less frequently represented leadership ranks 13 6 female vs 86 4 male,EVIDENCE
+177,h index comparable across genders,NO LABEL
+178,conclusion female nuclear medicine specialists underrepresented academic leadership positions compared male counterparts,NO LABEL
+179,difference numbers unlikely academic performance given genders comparable academic performance metrics study,NO LABEL
+180,results show need devising strategies promote diversity academic leadership positions across nuclear medicine specialists,NO LABEL
+181,empirical analysis women working time estimation female labour supply italy,NO LABEL
+182,empirical studies show misspecification married cohabiting women labour supply equation may produce inefficient wage elasticity estimates,NO LABEL
+183,order reduce variability estimates suggest new approach based instrumental variables given economic value domestic unpaid work women,CLAIM
+184,using italian micro data time use istat survey time use applying parametric semiparametric procedure estimate robust wage elasticity coefficients married women labour supply,NO LABEL
+185,results suggest women labour supply negatively influenced indirect cost informal activity childcare domestic work,NO LABEL
+186,influence gender equality policies gender inequalities health europe,NO LABEL
+187,abstract,NO LABEL
+188,studies addressed effect gender policies women health gender inequalities health,NO LABEL
+189,study aims analyse relationship orientation public gender equality policies gender inequalities health european countries whether relationship mediated gender equality country level individual social determinants health,NO LABEL
+190,multilevel cross sectional study performed using individual level data extracted european social survey 2010,NO LABEL
+191,study sample consisted 23 782 men 28 655 women 26 european countries,NO LABEL
+192,dependent variable self perceived health,NO LABEL
+193,individual independent variables gender age immigrant status educational level partner status employment status,NO LABEL
+194,main contextual independent variable modification korpi typology family policy models dual earner traditional central traditional southern market oriented contradictory,NO LABEL
+195,contextual variables gender empowerment measure gem measure country level gender equality gross domestic product gdp,NO LABEL
+196,country country typology prevalence fair poor health gender calculated prevalence ratios pr women compared men 95 confidence intervals ci computed,NO LABEL
+197,multilevel robust poisson regression models fitted women poorer self perceived health men countries traditional family policies pr 1 13 95 ci 1 07 1 21 traditional central pr 1 27 95 ci 1 19 1 35 traditional southern contradictory countries pr 1 08 95 ci 1 05 1 11,EVIDENCE
+198,multilevel models gender inequalities traditional southern countries significantly higher dual earner countries gender inequalities self perceived health higher women reporting worse self perceived health men countries family policies less oriented gender equality especially traditional southern country group,EVIDENCE
+199,partially explained gender inequalities individual social determinants health gem gdp,NO LABEL
+200,2014 elsevier ltd,NO LABEL
+201,gender discrimination depressive symptoms among child bearing women elspac cz cohort study,NO LABEL
+202,background depression approximately two fold prevalent among women men,NO LABEL
+203,social theories suggest discrimination pathway gender inequalities affect women lives data lacking,NO LABEL
+204,cohort study evaluates whether perceived gender discrimination linked depressive symptoms among child bearing women,NO LABEL
+205,methods data obtained 4 688 participants enrolled pregnancy 1991 92 european longitudinal cohort study pregnancy childhood czech republic,NO LABEL
+206,perceived gender discrimination assessed mid pregnancy year seven year eleven,NO LABEL
+207,depressive symptoms assessed using edinburgh postnatal depression scale eight time points mid pregnancy year eleven post delivery,NO LABEL
+208,linear mixed error component models depressive symptoms estimated,NO LABEL
+209,findings perceived gender discrimination reported 10 7 women related higher depressive symptoms unadjusted analysis b 0 15 95 confidence interval ci 0 12 0 19 p 0 001 fully adjusted model b 0 12 95 ci 0 09 0 16 p 0 001,EVIDENCE
+210,covariates linked higher depressive symptoms included financial hardship b 0 12 95 ci 0 10 0 14 p 0 001 childhood emotional physical neglect b 0 18 95 ci 0 14 0 22 p 0 001 childhood sexual abuse b 0 04 95 ci 0 03 0 06 p 0 001 inverse relationship evident social support 0 05 95 ci 0 07 0 04 p 0 001 partner performs female stereotypical household tasks b 0 03 95 ci 0 05 0 01 p 0 001,EVIDENCE
+211,interpretation findings provide first evidence perceived gender discrimination associated depressive symptoms among child bearing women,NO LABEL
+212,social intervention programs aimed reducing gender discrimination potentially contribute better mental health women,NO LABEL
+213,funding bill melinda gates foundation,NO LABEL
+214,patriarchal hegemony investigating impact patriarchy women work life balance,NO LABEL
+215,purpose research impact patriarchy patriarchal norms women work life balance scarce,NO LABEL
+216,typical patriarchal society nigeria tends organised based gender construct embedded culture,NO LABEL
+217,paper aims investigate impact patriarchy women work life balance non western context nigeria,NO LABEL
+218,design methodology approach authors adopt qualitative research approach enhance insight issue patriarchy women work life balance,NO LABEL
+219,data study collected four month period using semi structured interviews primary method data collection,NO LABEL
+220,findings findings thematic analysis reveal impact patriarchy women work life balance sub saharan africa specifically nigeria,NO LABEL
+221,women aspirations achieve work life balance part world often frustrated patriarchal norms deeply ingrained culture,NO LABEL
+222,findings study reveal male dominance excessive subordination females domestic gender based division labour higher patriarchal proclivities among men ingredients patriarchal society,NO LABEL
+223,issues make achievement work life balance difficult women,NO LABEL
+224,research limitations implications extent findings research generalised constrained limited sample size selected research context,NO LABEL
+225,practical implications insights gleaned research suggest still major challenges women global south specifically nigeria terms achieving work life balance due prevalent patriarchy patriarchal norms society,NO LABEL
+226,strong patriarchal norms proclivity negatively affect women work life balance turn may impact employee productivity organisational effectiveness employee performance employee punctuality work,NO LABEL
+227,however australian champion change initiative may adopted ease patriarchal proclivity help women achieve work life balance,NO LABEL
+228,originality value paper provides valuable insights bringing patriarchy discussion work life balance,NO LABEL
+229,issue hitherto rare literature,NO LABEL
+230,therefore enriches literature work life balance patriarchal perspective,NO LABEL
+231,developing tool increasing awareness gendered intersectional processes clinical assessment patients study pain rehabilitation,CLAIM
+232,abstract,NO LABEL
+233,objective,NO LABEL
+234,need tools addressing gender inequality everyday clinical work healthcare,NO LABEL
+235,aim paper develop tool increasing awareness genderedand intersectional processes clinical assessment patients based study painrehabilitation,NO LABEL
+236,methods,NO LABEL
+237,overarching project named equal care rehabilitation used multiple methods quantitative qualitative five sub studies,NO LABEL
+238,novel approach usedgrounded theory order synthesize results sub studies order developthe gender equality tool,NO LABEL
+239,gender equality tool described developed article isthus based results sub studies processes assessment selection ofpatients pain rehabilitation,NO LABEL
+240,inspired questions earlier tools posed openended questions inductively searched findings concepts relating genderedand social selection processes pain rehabilitation sub studies,NO LABEL
+241,throughthis process actual gender equality tool developed 15 questions pro cess assessing selecting patients pain rehabilitation,NO LABEL
+242,comprehensiveway understanding tool performed final step gt analyses,NO LABEL
+243,syn thesized results tool comprehensive model two dimensions relationto several possible discrimination axes,NO LABEL
+244,results,NO LABEL
+245,process assessing selecting patients visualized funnel top pro cess governed gendered attitudes rules structures,NO LABEL
+246,found cliniciansjudged inner outer characteristics status patients gendered intersec tional way process clinical decision making thus regarded poten tially biased regard gender socio economic status ethnicity age,NO LABEL
+247,implications,NO LABEL
+248,clinical implications tool tool included systematic routineof clinical assessment patients awareness raising base avoidinggender bias clinical decision making,CLAIM
+249,tool could also used team education forhealth professionals instrument critical reflection gender bias,NO LABEL
+250,conclusions,NO LABEL
+251,thus tools clinical assessment developed empirical studies various clini cal settings,CLAIM
+252,however micro level approach must understood broadersocietal perspective including gender relations macro meso level,NO LABEL
+253,representation women radiology journal editorial boards 40 year analysis,NO LABEL
+254,abstract,NO LABEL
+255,rationale objectives examined female representation editorial boards four prominent radiology journals,NO LABEL
+256,compared editorial board representation female academic radiology career advancement proportion female authorship three journals four decades,NO LABEL
+257,methods collected data gender editorial board members listed mastheads radiology american journal roentgenology ajr academic radiology journal american college radiology 5 year intervals plus recent year available 1973 2017 gender editors chief years since journal inception,NO LABEL
+258,compared radiology ajr academic radiology data published data gender journals authors us medical students academic radiologists time,NO LABEL
+259,results gender determined 171 editors chief 100 2139 100 editorial board members listed selected journals study years,NO LABEL
+260,proportion women editorial boards increased 1 4 1 69 1978 18 8 73 388 2013 p 001 remained proportion female first authors 7 5 1978 27 1 2013 female faculty radiology 11 5 1978 28 1 2013,EVIDENCE
+261,none four general radiology journals female editor chief study period,NO LABEL
+262,conclusions female representation editorial boards increased time still lags behind increases seen female first authorship radiology journals radiology faculty appointments last four decades,NO LABEL
+263,female editor chief study period,NO LABEL
+264,gender work life balance phenomenological study women entrepreneurs pakistan,NO LABEL
+265,purpose increased participation women labor force creates challenges balance work family obligations,EVIDENCE
+266,situation becomes complicated patriarchal societies pakistan due women stereotypical domestic roles religious prescriptions well cultural norms values,NO LABEL
+267,study aims explore different influencing factors women work family roles unique pakistani socio economic cultural environment,NO LABEL
+268,design methodology approach based interpretive phenomenological approach ipa study explores different influencing factors women work family roles unique pakistani socio economic cultural environment,NO LABEL
+269,methodology helped analyse data challenges faced women entrepreneurs achieve work life balance well insight techniques effective strategies use balance work family obligation,NO LABEL
+270,findings results show among motivational drivers start businesses achieving work life balance one significant ones,EVIDENCE
+271,businesses give flexibility control freedom juggle family social responsibilities,NO LABEL
+272,lack sufficient time gender bias social cultural norms well family responsibilities significant challenges women face achieve balance patriarchal islamic society,CLAIM
+273,strategic planning organising delegating effective strategies women use cope competing roles work family,NO LABEL
+274,originality value ground breaking work pakistan women entrepreneurs work life balance may also inspire women want start entrepreneurial career,NO LABEL
+275,emerald group publishing limited,NO LABEL
+276,sexual function women female genital mutilation,NO LABEL
+277,objective,NO LABEL
+278,compare sexual function women female genital mutilation fgm women without fgm,NO LABEL
+279,design,NO LABEL
+280,prospective case control study,NO LABEL
+281,setting,NO LABEL
+282,tertiary referral university hospital,NO LABEL
+283,patient,NO LABEL
+284,one hundred thirty sexually active women fgm 130 sexually active women without fgm jeddah saudi arabia,NO LABEL
+285,intervention,NO LABEL
+286,women without fgm asked answer arabic translated version female sexual function index fsfi questionnaire,NO LABEL
+287,main outcome measure,NO LABEL
+288,individual domain scores pain arousal lubrication orgasm satisfaction pain overall score fsfi calculated,NO LABEL
+289,result,NO LABEL
+290,two groups comparable demographic characteristics,NO LABEL
+291,statistically significant differences two groups mean desire score standard deviation pain score,NO LABEL
+292,however statistically significant differences two groups scores arousal lubrication orgasm satisfaction well overall score,NO LABEL
+293,conclusion,NO LABEL
+294,sexual function women fgm adversely altered,NO LABEL
+295,adds well known health consequences fgm,NO LABEL
+296,efforts document explain complications encouraged fgm abandoned,NO LABEL
+297,effect female genital mutilation cutting sexual functions,NO LABEL
+298,abstract,NO LABEL
+299,background,NO LABEL
+300,female genital mutilation cutting fgm c female circumcision procedure eliminating parts external female genitalia,NO LABEL
+301,fgm c carried traditional circumcisers,NO LABEL
+302,usually use cutting tools like blade straight razor,NO LABEL
+303,although fgm c well described african continent arabic countries data iran scarce,NO LABEL
+304,objectives,NO LABEL
+305,major objective current study investigate effects fgm c female sexual function married women compared non circumcised women kurdistan province iran,NO LABEL
+306,methods,NO LABEL
+307,case control study conducted sample 280 married women 140 circumcised women 140 non circumcised women referred healthcare centers vaccination midwifery family planning services,NO LABEL
+308,participants requested complete persian translated version female sexual function index,NO LABEL
+309,main outcome measures,NO LABEL
+310,total score fsfi individual domains,NO LABEL
+311,results,NO LABEL
+312,circumcised women 51 4 reported circumcision procedures age 3 years,NO LABEL
+313,religion motivation 53 6 mentioned important factor family leading fgm c,EVIDENCE
+314,almost operations performed traditional circumcisers,NO LABEL
+315,non circumcised women significantly higher persian fsfi total score 25 3,NO LABEL
+316,4 34 compared circumcised women 17 9,EVIDENCE
+317,5 39,NO LABEL
+318,conclusion,NO LABEL
+319,sexual function women fgm c adversely altered,NO LABEL
+320,kurdistan province women fgm c associated reduction scores persian fsfi domain scores,NO LABEL
+321,education general informing people fgm c religious hadith certainly would great impact suffering women fgm c well level desire arousal lubrication orgasm satisfaction pain sexual function women,EVIDENCE
+322,health consequences female genital mutilation cutting gambia evidence action,NO LABEL
+323,background,NO LABEL
+324,female genital mutilation cutting fgm c harmful traditional practice severe health complications deeply rooted many sub saharan african countries,NO LABEL
+325,gambia prevalence fgm c 78 3 women aged 15 49 years,NO LABEL
+326,objective study perform first evaluation magnitude health consequences fgm c gambia,NO LABEL
+327,methods,NO LABEL
+328,data collected types fgm c health consequences type fgm c 871 female patients consulted problem requiring medical gynaecologic examination undergone fgm c gambia resultsthe prevalence patients different types fgm c type 66 2 type ii 26 3 type iii 7 5,NO LABEL
+329,complications due fgm c found 299 871 patients 34 3,EVIDENCE
+330,even type form fgm c least anatomical extent presented complications 1 5 girls women examined,NO LABEL
+331,conclusion,NO LABEL
+332,study shows fgm c still practiced six regions gambia common form type followed type ii,NO LABEL
+333,forms fgm c including type produce significantly high percentages complications especially infections,EVIDENCE
+334,impact physical psychological sexual intimate male partner violence women mental health depressive symptoms posttraumatic stress disorder state anxiety suicide,EVIDENCE
+335,objective,NO LABEL
+336,study aimed determine impact lifetime physical psychological sexual intimate male partner violence ipv mental health women controlling contribution lifetime victimization,NO LABEL
+337,comorbidity depressive symptoms posttraumatic stress disorder ptsd relation state anxiety suicide also assessed,NO LABEL
+338,methods,NO LABEL
+339,physically psychologically n 75 psychologically abused women n 55 compared nonabused control women n 52,EVIDENCE
+340,information sociodemographic characteristics lifetime victimization mental health status depressive state anxiety symptoms ptsd suicide obtained face face structured interviews,NO LABEL
+341,results,NO LABEL
+342,women exposed physical psychological psychological ipv higher incidence severity depressive anxiety symptoms ptsd thoughts suicide control women differences two abused groups,EVIDENCE
+343,concomitance sexual violence associated higher severity depressive symptoms abused groups higher incidence suicide attempts physically psychologically abused group,EVIDENCE
+344,incidence ptsd alone rare depressive symptoms either alone comorbid ptsd,NO LABEL
+345,severity state anxiety higher abused women depressive symptoms comorbidity incidence suicidal thoughts physically psychologically abused group,EVIDENCE
+346,lifetime victimization predictor deterioration mental health study,NO LABEL
+347,conclusions,NO LABEL
+348,findings indicate psychological ipv detrimental physical ipv exception effects suicidality emphasizes psychological ipv considered major type violence professionals involved,NO LABEL
+349,child marriage psychological well niger ethiopia,CLAIM
+350,backgrounddespite understanding circumstances child marriage including limits agency erodes childhood support systems much known relationship child marriage mental health child brides especially sub saharan african context,NO LABEL
+351,address gap use large scale population based data ever married women aged 18 45 niger n 2764 ethiopia n 4149 examine association child marriage overall psychological well sub domains depression anxiety positive well vitality self control general health,NO LABEL
+352,complement qualitative data ethiopia contextualize psychological well child brides methodsmultivariate linear regressions conducted estimate association child marriage overall psychological well sub domains,NO LABEL
+353,thematic qualitative analysis conducted understand lives child brides resultsour regression analysis found significant negative associations early marriage marriage 15 years earlier overall psychological well niger ethiopia,NO LABEL
+354,exception self control sub domains psychological well depression anxiety positive well vitality general health negatively associated early marriage,EVIDENCE
+355,addition qualitative analysis ethiopian child brides reported suffering emotional distress depression induced burden handling marital responsibilities early age conclusionthe study highlights even settings child marriage normative marrying early associated negative outcomes,EVIDENCE
+356,research needed understand mechanisms make married early adolescence particularly vulnerable psychological distress programs address vulnerabilities,NO LABEL
+357,432 somali women birth experiences canada earlier female genital mutilation,NO LABEL
+358,background,NO LABEL
+359,women previous female genital mutilation sometimes referred circumcision migrating increasing frequency countries practice uncommon,NO LABEL
+360,many health care professionals countries lack experience assisting women female genital mutilation pregnancy birth usually untrained aspect care,NO LABEL
+361,somali women customarily practice extensive form female mutilation resident ontario recently given birth baby canada surveyed explore perceptions perinatal care earlier genital mutilation experiences,NO LABEL
+362,method,NO LABEL
+363,interviews 432 somali women previous female genital mutilation given birth baby canada past five years conducted homes somali woman interviewer,NO LABEL
+364,results,NO LABEL
+365,findings suggested women needs always adequately met pregnancy birth care,CLAIM
+366,women reported unhappiness clinical practice quality care,NO LABEL
+367,conclusions,NO LABEL
+368,changes clinical obstetric practice necessary incorporate women perceptions needs use fewer interventions demonstrate greater sensitivity cross cultural practices respectful treatment currently available present system care,CLAIM
+369,complex vulvar reconstruction following female genital mutilation cutting,NO LABEL
+370,background female genital mutilation cutting fgm c worldwide problem affecting millions women especially common africa arabia,NO LABEL
+371,women suffer serious physical psychological problems,NO LABEL
+372,anatomic reconstruction therefore important life changing option many affected women,NO LABEL
+373,objectives work gives short overview specialized techniques invented author functional aesthetic vulvar reconstruction following fgm c,NO LABEL
+374,work intend provide anatomic surgical details,NO LABEL
+375,materials methods anterior obturator artery perforator flap aoap flap omega domed flap od flap microsurgical procedure called neurotizing molding clitoral stump nmcs procedure described,NO LABEL
+376,results aoap flap vulvar reconstruction od flap clitoral prepuce reconstruction nmcs procedure reconstruction clitoral tip provided natural reliable long lasting results normalize anatomy mutilated outer female genitalia,NO LABEL
+377,conclusions reconstructive options presented contribute establish normal anatomy thus support women health relieve burden forced upon fgm c,CLAIM
+378,experiences sexual violence among women seeking services family planning unit sweden,NO LABEL
+379,abstract background,NO LABEL
+380,experiences sexual violence among women lead ill health increase risk lifetime co occurrence violence,NO LABEL
+381,identifying risk factors victims facilitates development effective programmes treatment prevention additional violence,NO LABEL
+382,primary aim study assess prevalence correlates sexual violence experiences among women seeking care family planning unit sweden,NO LABEL
+383,secondary aim examine associations sexual violence types violence,NO LABEL
+384,methods,NO LABEL
+385,women n 1226 seeking services family planning unit uppsala university hospital sweden answered questionnaire interviewed experiences sexual violence,NO LABEL
+386,bivariate associations examined using chi square test,NO LABEL
+387,results,NO LABEL
+388,experiences sexual violence reported 27 participants 57 exposed younger 18 years old,NO LABEL
+389,women experiences sexual violence likely lower education p 0 024 students without occupation p 0 037 current relationship p 0 001,NO LABEL
+390,women experiences non partner sexual violence likely experiences intimate partner violence p 0 001,NO LABEL
+391,conclusion,NO LABEL
+392,prevalence sexual violence high among respondents,NO LABEL
+393,many women young exposed violence lifetime co occurrence violence common among women experiences non partner sexual violence,NO LABEL
+394,title health promoting school framework improving health well students academic achievement,NO LABEL
+395,background,NO LABEL
+396,world health organization health promoting schools hps framework holistic settings based approach promoting health educational attainment school,NO LABEL
+397,effectiveness approach previously rigorously reviewed,NO LABEL
+398,objectives,NO LABEL
+399,assess effectiveness health promoting schools hps framework improving health well students academic achievement,NO LABEL
+400,search methods,NO LABEL
+401,searched following electronic databases january 2011 march april 2013 cochrane central register controlled trials central medline embase psycinfo cinahl campbell library assia bibliomap cab abstracts ibss social science citation index sociological abstracts trophi global health database sigle australian education index british education index education resources information centre database education research dissertation express index theses great britain ireland clinicaltrials gov current controlled trials international clinical trials registry platform,NO LABEL
+402,also searched relevant websites handsearched reference lists used citation tracking identify relevant articles,NO LABEL
+403,selection criteria,NO LABEL
+404,included cluster randomised controlled trials randomisation took place level school district geographical area,NO LABEL
+405,participants children young people aged four 18 years attending schools colleges,NO LABEL
+406,review define hps interventions comprising following three elements input curriculum changes school ethos environment engagement families communities,NO LABEL
+407,compared intervention schools implemented either intervention continued usual practice programme included one two mentioned hps elements,NO LABEL
+408,data collection analysis,NO LABEL
+409,least two review authors identified relevant trials extracted data assessed risk bias trials,NO LABEL
+410,grouped different types interventions according health topic targeted approach used,NO LABEL
+411,data permitted performed random effects meta analyses provide summary results across studies,NO LABEL
+412,main results,NO LABEL
+413,included 67 eligible cluster trials randomising 1443 schools districts,NO LABEL
+414,made 1345 schools 98 districts,NO LABEL
+415,studies tackled range health issues physical activity 4 nutrition 12 physical activity nutrition combined 18 bullying 7 tobacco 5 alcohol 2 sexual health 2 violence 2 mental health 2 hand washing 2 multiple risk behaviours 7 cycle helmet use 1 eating disorders 1 sun protection 1 oral health 1,EVIDENCE
+416,quality evidence overall low moderate determined grade approach,EVIDENCE
+417,risk bias assessments identified methodological limitations including heavy reliance self reported data high attrition rates studies,NO LABEL
+418,addition lack long term follow data studies found positive effects interventions body mass index bmi physical activity physical fitness fruit vegetable intake tobacco use bullied,NO LABEL
+419,intervention effects generally small potential produce public health benefits population level,NO LABEL
+420,found little evidence effectiveness standardised body mass index zbmi evidence effectiveness fat intake alcohol use drug use mental health violence bullying others however small number studies focused latter outcomes,EVIDENCE
+421,possible meta analyse data health outcomes due lack data,NO LABEL
+422,studies provided details adverse events outcomes related interventions,NO LABEL
+423,addition studies included academic attendance school related outcomes,NO LABEL
+424,therefore cannot draw clear conclusions effectiveness approach improving academic achievement,CLAIM
+425,authors conclusions,NO LABEL
+426,results review provide evidence effectiveness interventions based hps framework improving certain health outcomes others,EVIDENCE
+427,well designed research required establish effectiveness approach health topics academic achievement,NO LABEL
+428,title measuring well health care professionals punjab psychometric evaluation warwick edinburgh mental well scale pakistani populatio,NO LABEL
+429,background,NO LABEL
+430,growing awareness public health importance mental well general population specific groups,CLAIM
+431,well health professionals likely influence quality care deliver,NO LABEL
+432,study carried examine well pakistani healthcare professionals evaluate psychometric performance warwick edinburgh mental well scale wemwbs population,NO LABEL
+433,methods,NO LABEL
+434,cross sectional survey carried june 2013 december 2014 among 1 271 pakistani health care providers hcps working seven different cities punjab province pakistan examine acceptability internal consistency test retest reliability content construct validity english version wemwbs pakistani population sample,NO LABEL
+435,data analyzed spss v 21,NO LABEL
+436,results,NO LABEL
+437,analysis demonstrated unidimensional construct validity high internal consistency 0 89 test retest reliability good validity easy readability wemwbs sample pakistani hcps,NO LABEL
+438,mean wemwbs score 48 1 sd 9 4 lower general population countries,EVIDENCE
+439,male hcps scored significantly higher wemwbs female counterparts p 0 05 older respondents higher scores,EVIDENCE
+440,conclusion,NO LABEL
+441,wemwbs appears acceptable use pakistani hcps findings study verify validity internal consistency population sample,NO LABEL
+442,respondents lower well scores reported general population surveys uk,NO LABEL
+443,title proactive occupational safety health management promoting good health good business,NO LABEL
+444,research assessed impact organisational approaches occupational safety health osh management organisational performance safety climate employee attitudes health well,NO LABEL
+445,interviews health safety personnel company directors worker representatives used categorise organisations according approaches osh management using continuous improvement cycle model budworth khan 2003,NO LABEL
+446,cross sectional survey 2067 employees organisations examined impact company size industrial sector approach osh management indicators organisational performance employee outcomes,NO LABEL
+447,structured questionnaire assessed demographic characteristics organisation job tenure job satisfaction organisational commitment intention quit job motivation safety climate self reported absence performance work related ill health,NO LABEL
+448,organisations also asked provide data profit performance accidents absence indices,NO LABEL
+449,organisations adopting proactive approach osh management reported higher profit margins lower accident rates however differences statistically significant,EVIDENCE
+450,organisations classified good found show significantly positive safety climate perceptions across eight nine safety climate dimensions,NO LABEL
+451,employees proactive organisations significantly committed organisations showed greater job satisfaction employees organisations categorised yet fully engaged complier,EVIDENCE
+452,positive safety climate perceptions organisational attitudes associated better self reported physical mental health,EVIDENCE
+453,findings add validation cic model assessment learning tool may support transition organisations reactive proactive safety culture,NO LABEL
+454,title mental health well concerns fly fly workers partners australia qualitative study,NO LABEL
+455,abstract,NO LABEL
+456,objectives fly fly fifo work involves commuting long distances worksite living provided accommodation 1 4 weeks shift,NO LABEL
+457,potentially detrimental impact fifo work health well workers documented little attention paid workers partners cope impact,NO LABEL
+458,study sought investigate workers partners negotiate impact fifo mental health well,NO LABEL
+459,design study design qualitative,NO LABEL
+460,fifo workers partners responded open ended questions concerns fifo lifestyle support use,NO LABEL
+461,setting australian fifo workers partners responded questions via email,NO LABEL
+462,participants participants 34 fifo workers 25 men age 41 years 26 partners fifo workers 26 women age 40 years,EVIDENCE
+463,results participant validated thematic analysis generated three main themes managing multiple roles impact mental health well social support needs,NO LABEL
+464,results revealed difficulties adjusting responsibilities perceptually distinct shift shift lives managing potential psychological distance develops workers site,EVIDENCE
+465,participants emphasised importance maintaining quality communication support family members,NO LABEL
+466,workers partners attempted maintain mental health well regularly engaging support networks although many felt organisational support tokenistic stigmatised lacking,NO LABEL
+467,conclusions recommendations enhancing support provided fifo organisations offered,CLAIM
+468,particular organisations emphasise importance good mental health well maintain transparency regarding potential challenges fifo lifestyles offer professional support managing multiple social roles effective communication,CLAIM
+469,keywords health long distance commuting relationship communication shift work wellbeing,NO LABEL
+470,comparative evaluation korean mmpi mmpi rf substance abuse scales,NO LABEL
+471,abstractobjective purpose present study compare psychometric properties substance abuse sub scale korean minnesota multiphasic personality inventory adolescent restructured form mmpi rf korean mmpi alcohol drug problem acknowledgment scale ack alcohol drug problem proneness scale pro macandrew alcoholism scale revised scale mac r,NO LABEL
+472,method participants consisted 237 korean adolescent psychiatric patients whose scores measures compared terms internal consistency predictive validity,EVIDENCE
+473,results scores sub exhibited superior internal consistency mmpi substance abuse scales,EVIDENCE
+474,scores sub predicted substance abuse accurately optimal combination scores mmpi substance abuse scales,EVIDENCE
+475,conclusion results provide strong support use korean mmpi rf sub scale assessing substance abuse korean youth,CLAIM
+476,keywords korean mmpi korean mmpi rf substance abuse,NO LABEL
+477,title balancing act,NO LABEL
+478,work life balance health well european welfare states,NO LABEL
+479,background,NO LABEL
+480,recent analyses shown adverse psychosocial working conditions job strain effort reward imbalance vary country welfare state regimes,NO LABEL
+481,another work related factor potential impact health poor work life balance,NO LABEL
+482,aims study determine association poor work life balance poor health across variety european countries explore variation work life balance european countries,NO LABEL
+483,methods,NO LABEL
+484,data 2010 european working conditions survey used 24 096 employees 27 european countries,NO LABEL
+485,work life balance measured question fit working hours family social commitments,NO LABEL
+486,5 well index self rated general health used health indicators,NO LABEL
+487,logistic multilevel models calculated assess association work life balance health indicators explore country variation poor work life balance,NO LABEL
+488,results,NO LABEL
+489,employees reporting poor work life balance reported health problems poor well 2 06 95 ci 1 83 2 31 poor self rated health 2 00 95 ci 1 84 2 17,NO LABEL
+490,associations similar men women,NO LABEL
+491,considerable part country variation work life balance explained working hours working time regulations welfare state regimes,NO LABEL
+492,best overall work life balance reported scandinavian men women,EVIDENCE
+493,conclusion,NO LABEL
+494,study provides evidence public health impact poor work life balance working time regulations welfare state characteristics influence work life balance employees,CLAIM
+495,title state health rheumatoid arthritis patients receiving adequate treatment predictable,NO LABEL
+496,results survey,NO LABEL
+497,background survey conducted evaluate whether steady improvement quality life rheumatoid arthritis ra patients frequently reported clinical studies actually occur,NO LABEL
+498,focus study laid personal perception ra patients,NO LABEL
+499,patients treated along accepted guidelines see state health joint pain different points time,NO LABEL
+500,methods ra patients asked complete questionnaire return opinion research centre,NO LABEL
+501,questionnaire developed authors divided areas demography symptom description medical care well illness personal context,NO LABEL
+502,three telephone interviews followed monthly intervals patients feelings illness every day coping mechanisms social lives rated,EVIDENCE
+503,intra subject correlation level agreement among patients assessed three different points within two month period determined,NO LABEL
+504,results 127 patients replied questionnaire,NO LABEL
+505,ra exerts significant impact patient daily life,NO LABEL
+506,average ratings current state health joint pain answered 5 part scale extending 1 good 5 bad range 2 6 2 9 three times,NO LABEL
+507,however intra subject correlation different assessment times general quite modest,EVIDENCE
+508,concerning question join pain today,NO LABEL
+509,14 127 participants express identical ratings three times one third participants difference two digits 5 part scale least twice noticed,NO LABEL
+510,intra class correlation coefficients answers different points often much smaller 0 5,EVIDENCE
+511,results similar subgroups analysed men vs women patients receiving biologics vs receiving biologics disease duration 3 years vs 4 10 years vs 11 years,NO LABEL
+512,conclusion individual level personal assessments health well joint pain nevertheless unsteady even within timeframe two months,CLAIM
+513,even ra patients still cannot plan lives non affected people,NO LABEL
+514,title measuring physical mental health pregnancy postpartum australian childbearing population validation promis global short form,NO LABEL
+515,abstract,NO LABEL
+516,background health related quality life critical concept perinatal period remains researched,NO LABEL
+517,international consortium health outcomes measurement included patient reported outcomes measurement information system promis global short form gsf core outcome set pregnancy childbirth measure health related quality life,NO LABEL
+518,promis gsf fully evaluated valid reliable instrument population,NO LABEL
+519,study assessed psychometric properties promis gsf pregnancy postpartum period,NO LABEL
+520,methods promis gsf administered sample 309 pregnant women four time points pregnancy 27 36 weeks postpartum 6 26 weeks,NO LABEL
+521,structural validity internal consistency reliability construct validity responsiveness promis gsf evaluated,NO LABEL
+522,internal structure promis gsf explored using rasch measurement theory,NO LABEL
+523,response format item fit differential item functioning item bias dimensionality scale targeting assessed,NO LABEL
+524,results two revised subscales mental health four items physical health five items showed good fit rasch model,NO LABEL
+525,revised mental health subscale demonstrated good internal consistency reliability pregnancy postpartum period 88 87 respectively,CLAIM
+526,internal consistency reliability physical health subscale adequate 76 75 respectively,EVIDENCE
+527,revised mental health subscale sensitive group differences according history mental health disorder income smoking status drug use stress levels planned versus unplanned pregnancy,NO LABEL
+528,differences scores revised physical subscale detected groups based obesity income drug use smoking status stress history mental health disorders,EVIDENCE
+529,scores subscales recorded significant changes across four time points spanning pregnancy postpartum period,NO LABEL
+530,conclusions revised version promis gsf better able measure mental physical health pregnancy postpartum period compared original version,NO LABEL
+531,findings support clinical research application promis gsf within international consortium health outcomes measurement standard set outcome measures pregnancy childbirth,CLAIM
+532,ongoing psychometric analysis promis gsf recommended maternity populations,NO LABEL
+533,keywords health related quality life hrqol international consortium health outcomes measurement ichom mental health patient reported outcomes measurement information system promis physical health postpartum pregnant women psychometric evaluation quality life rasch analysis,NO LABEL
+534,title systematic review association employee worktime control work non work balance health well job related outcomes,NO LABEL
+535,objectives,NO LABEL
+536,aim review assess systematically empirical evidence associations employee worktime control wtc work non work balance health well job related outcomes eg job satisfaction job performance,NO LABEL
+537,method,NO LABEL
+538,systematic search empirical studies published 1995 2011 resulted 63 relevant papers 53 studies,NO LABEL
+539,five different categories wtc measurements distinguished global wtc multidimensional wtc flextime leave control subdimensions wtc,NO LABEL
+540,wtc category examined strength evidence association work non work balance ii health well iii job related outcomes,NO LABEL
+541,distinguished cross sectional longitudinal intervention studies,NO LABEL
+542,evidence strength assessed based number studies convergence terms study findings,NO LABEL
+543,results,NO LABEL
+544,moderately strong cross sectional evidence found positive associations global wtc work non work balance job related outcomes whereas consistent evidence found regarding health well,EVIDENCE
+545,intervention studies global wtc found moderately strong evidence positive causal association work non work balance insufficient evidence health well job related outcomes,NO LABEL
+546,limited moderately strong cross sectional evidence found positive associations multidimensional wtc outcome categories,NO LABEL
+547,moderately strong cross sectional evidence found positive associations flextime outcome categories,NO LABEL
+548,lack intervention longitudinal studies restricts clear causal inferences,NO LABEL
+549,conclusions,NO LABEL
+550,review shown theoretical empirical reasons view wtc promising tool maintenance employees work non work balance health well job related outcomes,NO LABEL
+551,time however current state evidence allows limited causal inferences made regarding impact enhanced wtc,EVIDENCE
+552,title rural self reliance impact health experiences people living type ii diabetes rural queensland australia,NO LABEL
+553,objective objective study explore whether rural culture influences type ii diabetes management better understand social processes rural people construct coping diabetes complications,NO LABEL
+554,particular study aimed analyse interface interactions rural people type ii diabetes australian health care system develop theoretical understanding reflects constructs may broadly applicable,NO LABEL
+555,methods study applied constructivist grounded theory methods within interpretive interactionist framework,NO LABEL
+556,data 39 semi structured interviews rural urban type ii diabetes patients mix rural health care providers analysed develop theoretical understanding social processes define diabetes management context,NO LABEL
+557,results analysis suggests although type ii diabetes imposes limitations require adjustment adaptation processes actively negotiated rural people within environmental context fit salient social understandings autonomy self reliance,NO LABEL
+558,thus people normalized self reliant diabetes management behaviours congruent rural culture,CLAIM
+559,factors informed actions normalization relationships participants health care professionals support access individual resources,NO LABEL
+560,conclusions findings point ways rural self reliance conceived primary strategy diabetes management,CLAIM
+561,people face paradox engaging health care system time maximizes individual responsibility health minimizes social support individuals manage condition,NO LABEL
+562,emphasis self reliance gives legitimacy lack prevention chronic care services,NO LABEL
+563,success diabetes management behaviours however contingent relative resources,NO LABEL
+564,good primary care develops number downstream effects including sense empowerment manage difficult rural environmental circumstances,NO LABEL
+565,particular bearing health outcomes people fewer resources,NO LABEL
+566,title good intentions gone awry,NO LABEL
+567,effects weight related social control health well,NO LABEL
+568,negative body image associated variety negative health well outcomes,NO LABEL
+569,social pressures others form weight related social control may serve exacerbate effect especially college aged women,NO LABEL
+570,undergraduate students n 399 completed variety questionnaires assessing weight related social control well diet exercise behaviors,NO LABEL
+571,results suggest weight associated variety negative health well outcomes particularly women weight related social control also associated negative effects,EVIDENCE
+572,addition men higher body mass indexes bmis higher self perceived weight experience negative health well outcomes degree overweight women,EVIDENCE
+573,parents particular seem instigate weight related social control change students diet exercise behaviors,NO LABEL
+574,results help clarify effects weight related social control college population weight may especially important,NO LABEL
+575,title defining good health care perspective persons multimorbidity results qualitative study focus groups eight european countries,NO LABEL
+576,objectives prevalence multimorbidity increasing many western countries,NO LABEL
+577,persons multimorbidity often experience lack alignment care multiple health social care organisations provide,NO LABEL
+578,response integrated care programmes appearing,NO LABEL
+579,challenge evaluate choose appropriate outcome measures,NO LABEL
+580,focus groups held persons multimorbidity eight european countries better understand good health good care process mean identify find important,NO LABEL
+581,methods 2016 eight focus groups organised persons multimorbidity austria croatia germany hungary netherlands norway spain uk total n 58,NO LABEL
+582,focus group followed two part procedure 1 defining good health well b good care process 2 group discussion prioritising important concepts derived part one list extracted literature,NO LABEL
+583,inductive deductive analyses done,NO LABEL
+584,results overall participants focus groups concentrated care process health,NO LABEL
+585,persons multimorbidity defined good health able conduct plan normal daily activities meaningful social relationships accepting current situation,NO LABEL
+586,absence shame fear stigma able enjoy life overall psychological well also important facets good health,EVIDENCE
+587,approached holistically care professionals said vital good care process,NO LABEL
+588,continuity care trusting professionals also described important,NO LABEL
+589,across countries little variation health definitions found variation defining good care process seen,CLAIM
+590,conclusion variety health outcomes entail well social psychological facets especially experience care outcomes included evaluating integrated care programmes persons multimorbidity,CLAIM
+591,title neural correlates good life eudaimonic well associated insular cortex volume,NO LABEL
+592,eudaimonic well reflects traits concerned personal growth self acceptance purpose life autonomy among others substantial predictor life events including health,NO LABEL
+593,although interest aetiology eudaimonic well blossomed recent years little known underlying neural substrates construct,NO LABEL
+594,address gap knowledge examined whether regional gray matter gm volume associated eudaimonic well,NO LABEL
+595,structural magnetic resonance images 70 young healthy adults also completed ryff 42 item measure six core facets eudaimonia analysed voxel based morphometry techniques,NO LABEL
+596,found eudaimonic well positively associated right insular cortex gm volume,NO LABEL
+597,association also reflected three sub scales eudaimonia personal growth positive relations purpose life,NO LABEL
+598,positive relations also showed significant association left insula volume,EVIDENCE
+599,significant associations observed although personal growth marginally associated left insula purpose life exhibited marginally significant negative association middle temporal gyrus gm volume,NO LABEL
+600,findings first knowledge linking eudaimonic well regional brain structure,CLAIM
+601,title influence metacognitive beliefs sleeping difficulties older adults,NO LABEL
+602,background sleep crucial role physical mental health across lifespan,NO LABEL
+603,addition excessive intrusive sleep related cognitive activity another factor may influence sleep quality old age sleep related metacognitive activity metacognitive beliefs sleeping difficulties night time thought control strategies,NO LABEL
+604,aimed assess relationship sleep related metacognitive beliefs thought control strategies excessive intrusive cognitive activities dysfunctional beliefs sleep objective perceived sleep disruptions elderly people,NO LABEL
+605,method sleep related metacognitive beliefs thought control strategies dysfunctional beliefs related sleep perceived sleeping difficulties assessed several questionnaires 50 older adults symptoms dementia depression insomnia,NO LABEL
+606,objective measures sleep also collected 7 days actigraphic recordings,NO LABEL
+607,results regression analyses showed subjective sleeping difficulties explained sleep related metacognitive activity particularly metacognitive beliefs sleeping difficulties,NO LABEL
+608,interestingly objective sleep measures associated metacognitive activity,NO LABEL
+609,addition self reported poor sleepers stronger metacognitive beliefs sleeping difficulties longer sleep onset latency self reported good sleepers,NO LABEL
+610,conclusions present findings underscore influence metacognitive activity sleep related metacognitive beliefs particular perception sleeping difficulties older adults,NO LABEL
+611,title well diabetes management early pregnant women type 1 diabetes mellitus,NO LABEL
+612,paper explores well diabetes management women type 1 diabetes mellitus dm early pregnancy investigates associations among perceived well diabetes management maternal characteristics,NO LABEL
+613,questionnaires answered 168 swedish women,NO LABEL
+614,correlation analyses conducted spearman correlation coefficient rs,NO LABEL
+615,women reported relatively high scores self efficacy diabetes management swe des 10 3 91 0 51 self perceived health excellent 6 5 good 42 3 good 38 7 fair 11 3 poor 1 2,NO LABEL
+616,moderate scores reported general well wbq 12 22 6 5 7 sense coherence soc 13 68 9 9 7 moderate low scores hypoglycemia fear swe hfs 26 6 11 8 low scores diabetes distress swe paid 20 27 1 15 9,EVIDENCE
+617,higher capability self efficacy diabetes management showed positive correlations self perceived health rs 0 41 p 0 0001 well rs 0 34 p 0 0001 well negative correlations diabetes distress rs 0 51 p 0 0001 hypoglycemia worries rs 0 27 p 0 0009,EVIDENCE
+618,women hba1c levels 48 mml mol scored higher subscales goal achievement swe des p 0 0028 comprehensibility soc p 0 016,NO LABEL
+619,well diabetes management could supported strengthening women capability achieve glycemic goals comprehensibility relation treatment,NO LABEL
+620,studies needed test,NO LABEL
+621,rural physical health care services people serious mental illness nursing perspective,NO LABEL
+622,objective understand nurse perspectives physical health needs mental health clients well rural services meeting overall care needs,NO LABEL
+623,design focus groups semistructured format,NO LABEL
+624,setting community mental health care regional rural district queensland,NO LABEL
+625,participants thirty eight nurses public mental health care,NO LABEL
+626,results major themes stigma mental illness ii barriers accessing physical health care services iii nurse adaptations demands iv community integration towards better overall health,NO LABEL
+627,nurses integrate overall care foster continuity people physical mental co morbidity supported much better sustaining,NO LABEL
+628,conclusion access continuity physical health care experienced australians exacerbated people rural areas,CLAIM
+629,physical health people serious mental illness residing remote australia needs national health priority,NO LABEL
+630,title self report oral health disease experience among adults china nz,NO LABEL
+631,abstract,NO LABEL
+632,objectives differences oral health perceptions complicate comparisons self reported oral health countries considerably different cultures traditions dental care,NO LABEL
+633,compared china new zealand nz determine whether adults countries differ self report oral health item responses distinguish different clinical oral disease states,NO LABEL
+634,materials methods analysis representative data dentate 35 44 year olds 65 74 year olds 3rd national oral health survey china 2005 sichuan province nz oral health survey 2009,NO LABEL
+635,self rated oral health chinese survey assessed asking overall would rate oral health,NO LABEL
+636,responses poor poor fair good good,NO LABEL
+637,nz survey asked would describe health teeth mouth,NO LABEL
+638,responses excellent good good fair poor,NO LABEL
+639,enable comparability combined create four category ordinal measure self reported oral health,NO LABEL
+640,slope index inequality sii relative index inequality rii determined extent four category self report item distinguished better poorer oral status,NO LABEL
+641,results higher proportion chinese nz 35 44 year olds rated oral health poor fair nz proportion rating oral health good four times observed among chinese,EVIDENCE
+642,65 74 year olds differed even overall responses,NO LABEL
+643,aspects clinical disease experience two populations responding similarly self reported oral health item although sii rii values pronounced among 35 44 year olds nz china among 65 74 year olds countries similar,NO LABEL
+644,conclusions chinese nz adults self ratings reflect oral disease experience largely similar ways despite considerable absolute differences,CLAIM
+645,clinical relevance findings support cross cultural applicability self report oral health measures,CLAIM
+646,keywords china dental caries new zealand oral health periodontal diseases self report,NO LABEL
+647,substance abuse national survey canadian residency program directors site chiefs university affiliated anesthesia departments,NO LABEL
+648,purpose abuse substances available anesthesiologists workspace potentially lethal occupational hazard,NO LABEL
+649,primary objective define prevalence substance abuse cases among canadian anesthesiologists university affiliated hospitals,NO LABEL
+650,secondary aim describe current management confirmed cases rehabilitation procedures offered preventative strategies employed,NO LABEL
+651,methods conducted cross sectional electronic survey canadian anesthesia residency program directors site chiefs university affiliated hospitals,NO LABEL
+652,data analysis performed using descriptive statistics,NO LABEL
+653,results survey response rate 54 53 98,NO LABEL
+654,substance abuse reported 1 6 residents 0 3 clinical fellows ten year period ending june 2014,EVIDENCE
+655,fentanyl abused nine 24 reported cases,EVIDENCE
+656,present one 22 respondents 4 5 reported formal education program substance abuse faculty members 72 described mandatory education residents,EVIDENCE
+657,majority participants perceive substance abuse growing problem,EVIDENCE
+658,seventy one percent respondents indicated methods controlled drug handling changed previous ten years however 66 think incidence controlled substance abuse could decreased stringent measures,NO LABEL
+659,21 respondents supported introduction random urine drug testing,NO LABEL
+660,conclusion prevalence substance abuse among canadian anesthesiologists substances abused appear comparable data united states residents group often affected,EVIDENCE
+661,early recognition treatment chemically dependent anesthesiologists remain imperfect,NO LABEL
+662,title characteristics well informal caregivers results nationally representative us survey,NO LABEL
+663,abstract,NO LABEL
+664,objectives given ongoing concerns high levels burden reported among informal caregivers goal study characterize sociodemographics health well,NO LABEL
+665,methods using cross sectional data large nationally representative survey united states n 438 712 identified adults provided informal care friends family members health problem long term illness disability,NO LABEL
+666,descriptive statistics propensity matching used characterize caregivers compare health social support sociodemographically similar adults caregivers,NO LABEL
+667,logistic regression models examined associations caregiving respondents mental health general health perceived social support sleep problems,NO LABEL
+668,results total 111 156 25 3 participants reported caregivers reported good mental health 90 good general health 83 adequate social support 77,NO LABEL
+669,adjusting respondents gender caregivers reported worse mental health non caregivers odds ratio 1 35 95 confidence interval ci 1 31 1 39 15 days poor mental health past month better general health 0 96 95 ci 0 94 0 98 fair poor health,EVIDENCE
+670,men caregivers reported somewhat worse overall health non caregivers 1 09 95 ci 1 05 1 13 whereas women reported better overall health,EVIDENCE
+671,discussion although reporting good overall well caregivers remain vulnerable worse outcomes non caregivers,NO LABEL
+672,caregiving associated poor mental health may additional impacts physical health caregiving men,NO LABEL
+673,keywords caregiver informal caregiving survey,NO LABEL
+674,family type domestic violence five mortality nigeria,NO LABEL
+675,background nigeria still showcases unacceptably high five mortality despite efforts reduce menace,NO LABEL
+676,investigating significant predictors occurrence paramount,NO LABEL
+677,objective examine interplay family setting domestic violence five death nigeria,NO LABEL
+678,methods cross sectional secondary data 2013 nigeria demographic health survey ndhs women dataset utilized,NO LABEL
+679,subset 26 997 ever married ever childbirth experience respondents extracted nationally representative women dataset,EVIDENCE
+680,dependent independent variables recoded suit statistical analysis study,NO LABEL
+681,results study revealed 33 7 respondents polygyny family setting one quarter ever married women reported ever experiencing one form domestic violence,NO LABEL
+682,results logistic regressions indicate family type domestic violence significant predictors five children mortality nigeria,NO LABEL
+683,conclusion study concludes women belong polygyny family setting ever experienced sexual domestic violence highly susceptible experience five children mortality counterparts,CLAIM
+684,study recommends strategies policies aimed improving child survival strengthen women empowerment initiatives discourage multiple wives campaign domestic violence nigeria,NO LABEL
+685,keywords nigerians polygyny domestic violence monogamous,NO LABEL
+686,title validation functional assessment chronic illness therapy spiritual well facit sp12 french old people,NO LABEL
+687,study aimed develop french version functional assessment chronic illness therapy spiritual well short version facit sp12 order provide self reported measure french people field gerontology,NO LABEL
+688,study involving 63 nursing home residents conducted evaluate construct validity reliability convergence validity facit sp12,NO LABEL
+689,confirmatory factor analysis corroborated three factor model meaning peace faith modifications two items also valid among people cognitive impairment,EVIDENCE
+690,subscales showed good internal consistency correlated quality life depression,EVIDENCE
+691,conclusion validated french version suitable instrument study maintenance promotion quality life elderly,NO LABEL
+692,epidemiology five mortality stanbul changes 1988 2011,NO LABEL
+693,background aim understanding causes five deaths key realizing sustainable developmental goals,NO LABEL
+694,aim descriptive study investigate causes five mortality stanbul 2011 compare findings 1988 2000,NO LABEL
+695,materials methods burial records stanbul evaluated cemetery records 1494 children died five years age buried stanbul metropolitan municipality cemeteries 1 january 31 december 2011 analyzed,NO LABEL
+696,several sociodemographic characteristics causes death compared results studies carried 1988 2000 stanbul similar methods,NO LABEL
+697,results five mortality rate lower 2011 1988 2000,EVIDENCE
+698,deaths 58 8 occurred neonatal period first day life similarly 1988 2000,NO LABEL
+699,proportion deaths age group 1 4 years found increasing,NO LABEL
+700,prematurity perinatal causes remained main cause death five years age stanbul 23 year period,NO LABEL
+701,unknown causes due misclassification still seen relatively high proportion,NO LABEL
+702,conclusion five mortality rate death due infectious diseases decreased stanbul 1988 2011,CLAIM
+703,findings showed need emphasis perinatal events better evaluation causes death clinical practice,CLAIM
+704,keywords five mortality causes death children infants,NO LABEL
+705,short term effects air pollution daily mortality years life lost nanjing china,NO LABEL
+706,deteriorating air quality chinese cities attracting growing public concern,NO LABEL
+707,conducted analyses quantify associations daily changes ambient air pollution mortality nanjing china,NO LABEL
+708,daily mortality air pollution meteorological data 1 january 2009 31 december 2013 collected,NO LABEL
+709,dispersed poisson regression models used evaluate risk daily non accidental mortality years life lost yll exposure respirable particulate matter pm10 gaseous pollutants no2 so2,NO LABEL
+710,stratified analysis conducted indentify modifying effect individual level factors association air pollutants mortality,NO LABEL
+711,found interquartile range iqr increases two day average pm10 no2 so2 significantly associated 1 6 95 confidence interval ci 0 7 2 6 2 9 95 ci 1 7 4 2 2 4 95 ci 1 2 3 6 higher rates non accidental mortality related yll increases 20 5 95 ci 6 3 34 8 34 9 95 ci 16 9 52 9 30 3 95 ci 12 2 48 4 years respectively associations air pollution mortality pronounced warm season cool season,EVIDENCE
+712,conclude risks mortality yll elevated corresponding increase current ambient concentrations air pollutants season may modify effects outdoor air pollution nanjing,CLAIM
+713,state gun laws pediatric firearm related mortality,NO LABEL
+714,background firearms second leading cause pediatric death united states,NO LABEL
+715,significant variation firearm legislation state level,CLAIM
+716,recently 3 state laws associated reduction overall deaths firearms universal background checks firearm purchases universal background checks ammunition purchases identification requirement firearms,NO LABEL
+717,sought determine stricter firearm legislation state level associated lower pediatric firearm related mortality,NO LABEL
+718,methods cross sectional study used 2011 2015 web based injury statistics query reporting system census data,NO LABEL
+719,measured association 1 strictness firearm legislation gun law score 2 presence 3 aforementioned gun laws pediatric firearm related mortality,NO LABEL
+720,performed negative binomial regression accounting differences state level characteristics population based race ethnicity education income gun ownership derive mortality rate ratios associated 10 point change predictor predicted mortality rates,NO LABEL
+721,results total 21 241 children died firearm related injuries 5 year period,NO LABEL
+722,states stricter gun laws lower rates firearm related pediatric mortality adjusted incident rate ratio 0 96 0 93 0 99,NO LABEL
+723,states laws requiring universal background checks firearm purchase effect 5 years lower pediatric firearm related mortality rates adjusted incident rate ratio 0 65 0 46 0 90,NO LABEL
+724,conclusions 5 year analysis states stricter gun laws laws requiring universal background checks firearm purchase lower firearm related pediatric mortality rates,NO LABEL
+725,findings support need investigation understand impact firearm legislation pediatric mortality,NO LABEL
+726,vulnerable road users greater risk ramadan results road traffic surveillance data,NO LABEL
+727,objective assess frequency nature outcome road traffic crashes differ fasting month ramadan,NO LABEL
+728,methods retrospective study conducted karachi comprised data road traffic injury surveillance project entailed information road traffic injury victims presenting emergency departments city september 2006 september 2011,NO LABEL
+729,data analysed find frequency road traffic crashes according time incident road user group survival,NO LABEL
+730,ramadan non ramadan groups compared respect time frequency incidents road user group mortality,NO LABEL
+731,spss 16 used statistical analysis,NO LABEL
+732,results 163 022 subjects 13 640 8 36 came ramadan 149 382 91 6 non ramadan months,EVIDENCE
+733,frequency road traffic crashes change significantly ramadan clustered around breaking fast taravih prayers,NO LABEL
+734,commonly affected road user group motorbike riders followed pedestrians,NO LABEL
+735,overall survival rti victims 96 1 mortality rate 4 1 higher figure 3 5 non ramadan period,EVIDENCE
+736,conclusions vulnerable road users frequently involved road traffic injuries ramadan,CLAIM
+737,moreover frequency crashes increased around evening requires careful planning traffic controls especially vulnerable road users,EVIDENCE
+738,tuberculosis migrants moving high incidence low incidence countries population based cohort study 519 955 migrants screened entry england wales northern ireland,NO LABEL
+739,background tuberculosis elimination countries low incidence disease necessitates multiple interventions including innovations migrant screening,NO LABEL
+740,examined cohort migrants screened tuberculosis entry england wales northern ireland tracked development disease group arrival,NO LABEL
+741,methods part pilot pre entry screening programme tuberculosis 15 countries high incidence disease international organization migration screened applicants uk visas aged 11 years older intended stay 6 months,NO LABEL
+742,applicants underwent chest radiograph results suggestive tuberculosis underwent sputum testing culture testing available,CLAIM
+743,tracked development tuberculosis tested negative disease subsequently migrated england wales northern ireland enhanced tuberculosis surveillance system,NO LABEL
+744,primary outcomes cases forms tuberculosis including clinically diagnosed cases bacteriologically confirmed pulmonary tuberculosis,EVIDENCE
+745,findings study cohort 519 955 migrants screened tuberculosis entry uk jan 1 2006 dec 31 2012,NO LABEL
+746,cases notified enhanced tuberculosis surveillance system jan 1 2006 dec 31 2013 included,NO LABEL
+747,1873 incident cases forms tuberculosis identified basis data england wales northern ireland estimated incidence forms tuberculosis migrants screened entry 147 per 100 000 person years 95 ci 140 154,NO LABEL
+748,estimated incidence bacteriologically confirmed pulmonary tuberculosis migrants screened entry 49 per 100 000 person years 95 ci 45 53,NO LABEL
+749,migrants whose chest radiographs compatible active tuberculosis negative pre entry microbiological results increased risk tuberculosis compared radiographic abnormalities incidence rate ratio 3 2 95 ci 2 8 3 7 p 0 0001,NO LABEL
+750,incidence tuberculosis migration increased significantly increasing estimated prevalence tuberculosis migrants countries origin,EVIDENCE
+751,35 318 983 pre entry screened migrants included secondary analysis typing data assumed index cases,NO LABEL
+752,estimates rate assumed reactivation tuberculosis ranged 46 95 ci 42 52 91 82 102 per 100 000 population,NO LABEL
+753,interpretation migrants countries high incidence tuberculosis screened granted entry low incidence countries pose negligible risk onward transmission increased risk tuberculosis could potentially prevented identification treatment latent infection close collaboration pre entry screening programme,NO LABEL
+754,funding wellcome trust uk national institute health research uk medical research council public health england department health policy research programme,NO LABEL
+755,application arima model prediction mortality rate suicide hainan province,NO LABEL
+756,objective analyze trend suicide mortality residents hainan province explore application time sequence model prediction mortality suicide,NO LABEL
+757,methods mortality data suicide residents hainan province january 2014 december 2016 collected analyzed time sequence model mortality rate suicide january june 2017 hainan predicted model,NO LABEL
+758,results january 2014 june 2017 total 576 suicide cases reported hainan mortality rate 1 5 100 000,EVIDENCE
+759,established arima model good fitting suicide mortality previous times prediction result quite similar actual mortality predicted mortality rate within 95 confidence interval actual rate,NO LABEL
+760,conclusion time sequence model prediction suicide mortality hainan arima 0 1 0 0 0 0 12 prediction effect model better used predict suicide mortality hainan,NO LABEL
+761,longitudinal epidemiological comparison suicide causes death italian children adolescents,NO LABEL
+762,objective study evaluate temporal trends gender effects methods completed suicide amongst children adolescent aged 10 17 compared temporal trends deaths causes,NO LABEL
+763,data extracted italian mortality database collected italian national census bureau istat processed statistics unit national centre epidemiology surveillance health promotion cnesps national institute health istituto superiore di sanit,NO LABEL
+764,total 1 871 children adolescents age 10 17 years committed suicide italy 1971 2003 109 died suicide last 3 year period observation 2006 2008,NO LABEL
+765,average suicide rate entire period observation 0 91 per 100 000 rate 1 21 males 0 59 females,NO LABEL
+766,study period general mortality children adolescents age 10 17 years decreased dramatically average annual percentage change decrease 3 3 95 ci 4 4 1 9 males 2 9 95 ic 4 4 2 5 females,EVIDENCE
+767,decrease observed genders causes deaths except suicide,NO LABEL
+768,males frequent method hanging 54 5 followed shooting fire arms 19 6 falls jumping high places 12 7 females frequent method jumping high places falls accounted 35 7 suicides whole study period,EVIDENCE
+769,conclusion study highlights course several decades suicide far less preventable cause death compared causes death amongst children adolescents,CLAIM
+770,study demonstrated suicide rates adolescents stable phenomenon 40 years period study,NO LABEL
+771,suggested rates males females differed varied different ways specific time periods study,NO LABEL
+772,national suicide prevention actions parallel prevention measures implemented reduce causes death,NO LABEL
+773,examining impact introducing icd mm observed trends maternal mortality rates uk 2003 13,NO LABEL
+774,background causes maternal death classified internationally according icd mm,NO LABEL
+775,one significant change introduction icd mm 2012 reclassification maternal suicide indirect group direct group,NO LABEL
+776,led concerns impact reclassification calculated mortality rates,NO LABEL
+777,aim analysis examine trends maternal deaths uk past 10 years investigate impact reclassification using icd mm observed rates,NO LABEL
+778,methods data maternal deaths 2003 13 uk included analysis,NO LABEL
+779,data maternal deaths occurring prior 2009 obtained previously published reports,NO LABEL
+780,deaths women 2009 13 pregnancy identified mbrrace uk confidential enquiry maternal deaths,NO LABEL
+781,underlying causes maternal death reclassified disease based system icd mm,NO LABEL
+782,maternal mortality rates 95 confidence intervals calculated using national data number maternities denominator,NO LABEL
+783,rate ratios 95 ci calculated compare change rates maternal death per icd mm relative old classification system,NO LABEL
+784,results decrease maternal death rate 2003 05 2011 13 rate ratio rr 0 65 95 ci 0 54 0 77 comparing 2003 5 2011 13 p 0 005 trend time,EVIDENCE
+785,direct maternal death rate calculated using old classification decreased rr 0 47 95 ci 0 34 0 63 comparing 2011 13 2003 05 p 0 005 trend time,NO LABEL
+786,reclassification using icd mm made little material difference observed trend direct maternal death rates rr 0 51 95 ci 0 39 0 68 comparing 2003 5 2011 13 p 0 005 trend time,EVIDENCE
+787,conclusions impact reclassifying maternal deaths according icd mm uk minimal,CLAIM
+788,however reclassification raises awareness maternal suicides hence first step actions prevent women dying suicide future,CLAIM
+789,recognising acknowledging women deaths important concerns impact reclassification using icd mm might reported maternal death rates,CLAIM
+790,suicide risk among cancer survivors head neck versus cancers,NO LABEL
+791,background cancer survivors face psychosocial issues increase risk suicide,NO LABEL
+792,study examined risk suicide across cancer sites focus survivors head neck cancer hnc,NO LABEL
+793,methods surveillance epidemiology end results 18 registry database 2000 2014 queried top 20 cancer sites database including hnc,NO LABEL
+794,outcome interest suicide cause death,NO LABEL
+795,mortality rate suicide estimated hnc sites compared rates 19 cancer sites included study,NO LABEL
+796,poisson regression used estimate adjusted rate ratios arrs 95 confidence intervals cis 1 hnc versus non hnc sites 19 cancer sites combined 2 hnc versus individual cancer site,NO LABEL
+797,models stratified sex controlling race marital status age year stage diagnosis,NO LABEL
+798,results 404 suicides among 151 167 hnc survivors 2000 2014 yielding suicide rate 63 4 suicides per 100 000 person years,NO LABEL
+799,timeframe 4493 suicides observed among 4219 097 cancer survivors study sample yielding incidence rate 23 6 suicides per 100 000 person years,NO LABEL
+800,compared survivors cancers survivors hnc almost 2 times likely die suicide arr 1 97 95 ci 1 77 2 19,EVIDENCE
+801,27 increase risk suicide among hnc survivors period 2010 2014 arr 1 27 95 ci 1 16 1 38 compared period 2000 2004,EVIDENCE
+802,conclusions although survival rates cancer improved improved treatments risk death suicide remains problem cancer survivors particularly hnc,CLAIM
+803,keywords epidemiology surveillance end results seer program cancer survivorship cancer associated suicide head neck cancer suicide,NO LABEL
+804,impact socioeconomic deprivation rate cause death severe mental illness,NO LABEL
+805,background socioeconomic status important associations disease specific mortality general population,NO LABEL
+806,although individuals severe mental illnesses smi experience significant premature mortality relationship socioeconomic status mortality group remains investigated,CLAIM
+807,aimed assess impact socioeconomic status rate cause death individuals smi schizophrenia bipolar disorder relative local glasgow wider scottish populations,NO LABEL
+808,methods cause age death 2006 2010 inclusive individuals schizophrenia bipolar disorder registered glasgow psychosis clinical information system psycis obtained linkage scottish general register office gro,NO LABEL
+809,rate cause death socioeconomic status measured scottish index multiple deprivation simd compared glasgow scottish populations,NO LABEL
+810,results death rates higher people smi across socioeconomic quintiles compared glasgow scottish populations persisted suicide excluded,EVIDENCE
+811,differences largest deprived quintile 794 6 per 10 000 population vs 274 7 252 4 glasgow scotland respectively,NO LABEL
+812,cause death varied socioeconomic status,NO LABEL
+813,living deprived quintile higher drug related deaths occurred smi compared local glasgow wider scottish population rates 12 3 vs 5 9 p 0 001 5 1 p 0 002 respectively,EVIDENCE
+814,lower proportion deaths due cancer smi living deprived quintile also observed relative local glasgow wider scottish populations 12 3 vs 25 1 p 0 013 26 3 p 0 001,EVIDENCE
+815,proportion suicides significantly higher smi living affluent quintiles relative glasgow scotland 54 6 vs 5 8 p 0 001 5 5 p 0 001,EVIDENCE
+816,conclusions excess mortality smi occurred across socioeconomic quintiles compared glasgow scottish populations marked deprived quintiles suicide excluded cause death,CLAIM
+817,work assessing impact socioeconomic status specific causes premature mortality smi needed,NO LABEL
+818,suicide serbia,NO LABEL
+819,background suicide remains significant public health problem worldwide,NO LABEL
+820,aim study assess mortality trend suicide serbia years 1991 2014,NO LABEL
+821,methods data persons died suicide self inflicted injury site codes e950 e959 revision 9 x60 x84 revision 10 international classification diseases classify death injury cause death obtained statistical office republic serbia,NO LABEL
+822,age standardized rate calculated direct method per 100 000 persons using segi world population standard population,NO LABEL
+823,average annual percentage change aapc corresponding 95 confidence interval ci computed trend using joinpoint regression analysis,NO LABEL
+824,results total 33 930 24 016 men 9914 women suicide deaths occurred serbia observed period average annual age standardized mortality rate 12 7 per 100 000 inhabitants 19 5 per 100 000 men 6 7 per 100 000 women,EVIDENCE
+825,suicide mortality age groups higher among men women,NO LABEL
+826,genders suicide rates highest oldest age group,NO LABEL
+827,significantly decreased trend suicide mortality recorded continuously 1991 2014 aapc 1 9 95 ci 2 2 1 6,EVIDENCE
+828,frequently used suicide method genders hanging strangulation suffocation 61 2 suicides,NO LABEL
+829,changes mortality rates significant suicide firearms air guns explosives aapc 1 5 aapc 1 5 men 3 1 3 1 women suicide hanging strangulation suffocation aapc 1 2 aapc 1 2 men 3 0 3 0 women,EVIDENCE
+830,men nonsignificant increase suicide firearms air guns explosives observed period 1991 1997 6 1 per year followed significant decrease 2014 3 1 per year,EVIDENCE
+831,significantly increased mortality suicide firearms air guns explosives observed older men aged 40 69 years 80 years,EVIDENCE
+832,limitations low rate autopsies serbia well accuracy reliability comparability suicide mortality data always question,NO LABEL
+833,conclusions downward trend suicide mortality occurred serbia last two decades,CLAIM
+834,however suicide rates still high serbia compared rates suicides developed countries,NO LABEL
+835,particularly worrisome increase mortality older men especially due firearm suicides air rifles explosives,NO LABEL
+836,thus additional efforts prevention suicide important,NO LABEL
+837,injury deaths adolescent population finland 43 year secular trend analysis 1971 2013,NO LABEL
+838,background injuries major public health problem worldwide leading cause death children adolescents developed countries,NO LABEL
+839,however knowledge recent secular trends injury deaths adolescents sparse,NO LABEL
+840,methods using official cause death statistics finland examined nationwide trends age sex specific incidence rates fatal injuries among 10 14 year old 15 19 year old adolescents finland 1971 2013,NO LABEL
+841,results incidence rate fatal injuries decreased considerably age groups 43 year follow period,EVIDENCE
+842,decline injury deaths mainly due decreased deaths traffic accidents,NO LABEL
+843,number drownings reached ultimate goal drownings finnish 10 19 year old adolescents 2013,NO LABEL
+844,rates intentional injury deaths remained stable girls 15 19 year old boys decreasing trend evident,NO LABEL
+845,deep economic depression 1990 incidence suicide 15 19 year old boys high 40 1,NO LABEL
+846,time boys suicide risk 7 4 times higher girls,EVIDENCE
+847,since boys risk suicide clearly decreased 1 6 times higher corresponding risk girls 2013,EVIDENCE
+848,conclusions incidence rate fatal injuries decreased considerably finnish adolescents period 1971 2013,CLAIM
+849,clearest change occurred road traffic injuries drownings,NO LABEL
+850,rates intentional injury deaths remained unaltered girls 15 19 year old boys showed decreasing trend,NO LABEL
+851,influence coping skills training family health education self esteem among adolescents substance abuse prevention,NO LABEL
+852,objective substance abuse one serious problems indonesia highly prevalent among adolescents,NO LABEL
+853,therefore psychotherapy needed preventing substance abuse adolescents,NO LABEL
+854,study aims analyze influence coping skills training family health education self esteem sample 87 young people,NO LABEL
+855,method sample divided two groups using simple random sampling,NO LABEL
+856,anova used determine differences control group receiving coping skills training family health education,NO LABEL
+857,results self esteem improved significantly group received experimental training f 1 85 44 70 p 0 001,EVIDENCE
+858,practical implications deduced psychiatric nurses implemented coping skill training family health education standard treatment substance abuse prevention among adolescents,NO LABEL
+859,female genital mutilation reconstruction preliminary report,NO LABEL
+860,abstract,NO LABEL
+861,background female genital mutilation fgm internationally recognized violation human rights,NO LABEL
+862,though rarely discussed fgm prevalent affecting hundreds millions females worldwide,NO LABEL
+863,objectives believe important plastic surgeons informed prepared address surgical emotional needs women,NO LABEL
+864,present experience treatment women subjected fgm,CLAIM
+865,methods three consecutive patients treated clitoral restoration procedure,NO LABEL
+866,procedure involves conscious sedation involves wide release scar tissue around labia majora clitoris,NO LABEL
+867,labial flaps elevated secured periosteum clitoris allowed remucosalize,NO LABEL
+868,results three females grade ii mutilation treated,NO LABEL
+869,average age 32 3 years old average follow 305 days,NO LABEL
+870,patients self reported improved sexual function decreased embarrassment partners,CLAIM
+871,recommended treatment women subjected fgm,NO LABEL
+872,conclusions fgm violation basic rights women children,CLAIM
+873,plastic surgeons help women restore physical psychological sense well providing effective reconstructive options,CLAIM
+874,goal raise awareness problem describe simple yet effective treatment women subject fgm,NO LABEL
+875,title national climate policies across europe impacts cities strategies,NO LABEL
+876,abstract globally efforts underway reduce anthropogenic greenhouse gas emissions adapt climate change impacts local level,NO LABEL
+877,however poor understanding relationship city strategies climate change mitigation adaptation relevant policies national european level,NO LABEL
+878,paper describes comparative study evaluation cross national policy,NO LABEL
+879,reports findings studying climate change strategies plans 200 european cities austria belgium estonia finland france germany ireland italy netherlands spain united kingdom,NO LABEL
+880,study highlights shared responsibility global european national regional city policies,NO LABEL
+881,interpretation illustration influences international national networks policy makers stimulating development local strategies actions proposed,NO LABEL
+882,found archetypical way planning climate change multiple interests motivations inevitable,NO LABEL
+883,research warrants need multi scale approach climate policy future mainly ensuring sufficient capacity resource enable local authorities plan respond specific climate change agenda maximising management potentials translating environmental challenges opportunities,NO LABEL
+884,title recent decline global land evapotranspiration trend due limited moisture supply,NO LABEL
+885,abstract half solar energy absorbed land surfaces currently used evaporate water,NO LABEL
+886,climate change expected intensify hydrological cycle alter evapotranspiration implications ecosystem services feedback regional global climate,NO LABEL
+887,evapotranspiration changes may already way direct observational constraints lacking global scale,NO LABEL
+888,evidence available changes water cycle land key diagnostic criterion effects climate change variability remain uncertain,NO LABEL
+889,provide data driven estimate global land evapotranspiration 1982 2008 compiled using global monitoring network meteorological remote sensing observations machine learning algorithm,NO LABEL
+890,addition assessed evapotranspiration variations time period using ensemble process based land surface models,NO LABEL
+891,results suggest global annual evapotranspiration increased average 7 1 1 0 millimetres per year per decade 1982 1997,EVIDENCE
+892,coincident last major el ni event 1998 global evapotranspiration increase seems ceased 2008,EVIDENCE
+893,change driven primarily moisture limitation southern hemisphere particularly africa australia,NO LABEL
+894,regions microwave satellite observations indicate soil moisture decreased 1998 2008,NO LABEL
+895,hence increasing soil moisture limitations evapotranspiration largely explain recent decline global land evapotranspiration trend,CLAIM
+896,whether changing behaviour evapotranspiration representative natural climate variability reflects permanent reorganization land water cycle key question earth system science,NO LABEL
+897,title solvent extraction separation recovery dysprosium dy neodymium nd aqueous solutions waste recycling strategies permanent magnet processing,NO LABEL
+898,abstract nowadays permanent magnets pms play key role electrical electronic goods thus demand incessantly increasing countries korea,NO LABEL
+899,pms significantly utilize dysprosium dy neodymium nd manufacturing,NO LABEL
+900,observed magnets reach end life treated scrap containing lot valuable metals,NO LABEL
+901,moreover time production industries certain scraps generated metals could recovered,NO LABEL
+902,availability appreciable amount rare earth scraps caught attention researchers recycling found best method recuperate metals scrap pms,NO LABEL
+903,reduce practice land filling well environmental impact,NO LABEL
+904,present paper highlights resource recycling strategies pms recovering dy nd using solvent extraction method,NO LABEL
+905,role organophosphorus extractants extraction separation recovery dy nd discussed briefly reviewed,NO LABEL
+906,flow sheets discussing use organophosphorus extractants recover dy nd products commercial operation highlighted present review,NO LABEL
+907,moreover case study presented comparing two extractants based phosphorus p e di 2 ethyl hexyl phosphoric acid d2ehpa 2 ethyl hexyl phosphonic acid mono 2 ethyl hexyl ester pc 88a implemented recovery dy nd using hydrometallurgical techniques,NO LABEL
+908,various experimental conditions maximum loading rates theoretical extraction stages scrubbing processes stripping processes addressed extractants,NO LABEL
+909,piece comparative summarized review useful researchers industrialists working area rare earth extraction,NO LABEL
+910,title high resolution mapping global surface water long term changes,NO LABEL
+911,abstract location persistence surface water inland coastal affected climate human activity affects climate biological diversity human wellbeing,NO LABEL
+912,global data sets documenting surface water location seasonality produced inventories national descriptions statistical extrapolation regional data satellite imagery measuring long term changes high resolution remains challenge,NO LABEL
+913,using three million landsat satellite images quantify changes global surface water past 32 years 30 metre resolution,NO LABEL
+914,record months years water present occurrence changed form changes took terms seasonality persistence,NO LABEL
+915,1984 2015 permanent surface water disappeared area almost 90 000 square kilometres roughly equivalent lake superior though new permanent bodies surface water covering 184 000 square kilometres formed elsewhere,NO LABEL
+916,continental regions show net increase permanent water except oceania fractional one per cent net loss,EVIDENCE
+917,much increase reservoir filling although climate change also implicated,NO LABEL
+918,loss geographically concentrated gain,NO LABEL
+919,70 per cent global net permanent water loss occurred middle east central asia linked drought human actions including river diversion damming unregulated withdrawal,EVIDENCE
+920,losses australia usa linked long term droughts also evident,NO LABEL
+921,globally consistent validated data set shows impacts climate change climate oscillations surface water occurrence measured evidence gathered show surface water altered human activities,NO LABEL
+922,anticipate freely available data improve modelling surface forcing provide evidence state change wetland ecotones transition areas biomes inform water management decision making,EVIDENCE
+923,title worldwide decline entomofauna review drivers,NO LABEL
+924,abstract biodiversity insects threatened worldwide,NO LABEL
+925,present comprehensive review 73 historical reports insect declines across globe systematically assess underlying drivers,NO LABEL
+926,work reveals dramatic rates decline may lead extinction 40 world insect species next decades,NO LABEL
+927,terrestrial ecosystems lepidoptera hymenoptera dung beetles coleoptera appear taxa affected whereas four major aquatic taxa odonata plecoptera trichoptera ephemeroptera already lost considerable proportion species,NO LABEL
+928,affected insect groups include specialists occupy particular ecological niches also many common generalist species,NO LABEL
+929,concurrently abundance small number species increasing adaptable generalist species occupying vacant niches left ones declining,NO LABEL
+930,among aquatic insects habitat dietary generalists pollutant tolerant species replacing large biodiversity losses experienced waters within agricultural urban settings,NO LABEL
+931,main drivers species declines appear order importance habitat loss conversion intensive agriculture urbanisation ii pollution mainly synthetic pesticides fertilisers iii biological factors including pathogens introduced species iv climate change,NO LABEL
+932,latter factor particularly important tropical regions affects minority species colder climes mountain settings temperate zones,NO LABEL
+933,rethinking current agricultural practices particular serious reduction pesticide usage substitution sustainable ecologically based practices urgently needed slow reverse current trends allow recovery declining insect populations safeguard vital ecosystem services provide,NO LABEL
+934,addition effective remediation technologies applied clean polluted waters agricultural urban environments,NO LABEL
+935,title achieving sustainable development india along low carbon pathways macroeconomic assessment,NO LABEL
+936,abstract achieving fast inclusive economic growth concurrently greenhouse gases ghg emission control could wide ranging implications indian economy predominantly fuelled fossil energies,NO LABEL
+937,india faces high income inequality bottom 50 population owning 2 total national wealth,EVIDENCE
+938,developmental challenges include 304 million people living poverty 269 million without access electricity 92 million without access safe drinking water around 2 million homeless,NO LABEL
+939,despite challenges india committed reduce ghg emission intensity gdp 33 35 2005 level 2030 including via turning 40 power generation capacity away fossil sources,NO LABEL
+940,explore macroeconomic consequences achieving development along low carbon pathways use hybrid modelling architecture combines strengths aim enduse bottom model indian energy systems imaclim top economy wide model india,NO LABEL
+941,hybrid architecture stands upon original dataset reconciles national accounting energy balance energy price statistics,NO LABEL
+942,tool demonstrate low carbon scenarios accommodate yearly economic growth 5 8 2013 2050 e perform close slightly higher business usual scenario despite high investment costs,EVIDENCE
+943,result partly stems improvement indian trade balance via substantial reduction large fossil fuel imports,NO LABEL
+944,additionally consequence significant shifts sectoral activity household consumption towards low carbon products services higher value added,NO LABEL
+945,transitions would require policies reconcile conflicting interests entrenched businesses retreating sectors like coal oil emerging low carbon sectors technologies renewables smart grids electric vehicles modern biomass energy solar cooking carbon capture storage etc,NO LABEL
+946,title impacts adaptation european crop production systems climate change,NO LABEL
+947,abstract studies anthropogenic climate change performed last decade europe show consistent projections increases temperature different patterns precipitation widespread increases northern europe decreases parts southern eastern europe,NO LABEL
+948,many countries recent years tendency towards cereal grain yield stagnation increased yield variability,EVIDENCE
+949,trends may influenced recent climatic changes europe,NO LABEL
+950,set qualitative quantitative questionnaires perceived risks foreseen impacts climate climate change agriculture europe distributed agro climatic agronomy experts 26 countries,NO LABEL
+951,europe divided 13 environmental zones ez,NO LABEL
+952,total 50 individual responses specific ez,NO LABEL
+953,questionnaires provided country ez specific information 1 main vulnerabilities crops cropping systems present climate 2 estimates climate change impacts production nine selected crops 3 possible adaptation options well 4 adaptation observed far,NO LABEL
+954,addition focused overall awareness presence warning decision support systems relevance adaptation climate change,EVIDENCE
+955,results show farmers across europe currently adapting climate change particular terms changing timing cultivation selecting crop species cultivars,NO LABEL
+956,responses questionnaires show surprisingly high proportion negative expectations concerning impacts climate change crops crop production throughout europe even cool temperate northern european countries,NO LABEL
+957,expected impacts positive negative large northern europe mediterranean countries largely linked possibilities effective adaptation maintain current yields,NO LABEL
+958,negative effects found continental climate pannonian zone includes hungary serbia bulgaria romania,EVIDENCE
+959,region suffer increased incidents heat waves droughts without possibilities effectively shifting crop cultivation parts years,CLAIM
+960,wide range adaptation options exists european regions mitigate many negative impacts climate change crop production europe,NO LABEL
+961,however considering effects climate change possibilties adaptation impacts still mostly negative wide regions across europe,NO LABEL
+962,title understanding farmers perceptions adaptations climate change variability case limpopo basin south africa,NO LABEL
+963,abstract climate change expected serious environmental economic social impacts south africa,NO LABEL
+964,particular rural farmers whose livelihoods depend use natural resources likely bear brunt adverse impacts,NO LABEL
+965,extent impacts felt depends large part extent adaptation response climate change,NO LABEL
+966,research uses bottom approach seeks gain insights farmers based farm household survey,NO LABEL
+967,farm level data collected 794 households limpopo river basin south africa farming season 2004 2005,NO LABEL
+968,study examines farmer perceptions correspond climate data recorded meteorological stations limpopo river basin analyzes farmers adaptation responses climate change variability,NO LABEL
+969,heckman probit model multinomial logit mnl model used examine determinants adaptation climate change variability,NO LABEL
+970,statistical analysis climate data shows temperature increased years,EVIDENCE
+971,rainfall characterized large interannual variability previous three years dry,NO LABEL
+972,indeed analysis shows farmers perceptions climate change line climatic data records,NO LABEL
+973,however approximately half farmers adjusted farming practices account impacts climate change,NO LABEL
+974,lack access credit cited respondents main factor inhibiting adaptation,NO LABEL
+975,results multinomial logit heckman probit models highlighted household size farming experience wealth access credit access water tenure rights farm activities access extension main factors enhance adaptive capacity,CLAIM
+976,thus government design policies aimed improving factors,NO LABEL
+977,title global environmental losses plastics across value chains,NO LABEL
+978,abstract increasing focus marine plastic pollution quantification environmental losses plastics world differentiation geographic regions polymers loss occurrences along plastics value chains required,NO LABEL
+979,study make global estimation losses plastics environment across entire plastic value chain using existing literature databases coupled improved additional methodological modelling losses,NO LABEL
+980,resulting loss estimates unprecedented detailed differentiations polymers 23 plastic applications 13 geographical regions 11 plastic value chain stages,NO LABEL
+981,comprehensive sensitivity uncertainty analyses also conducted identify key drivers terms plastic losses,NO LABEL
+982,overall found approximately 6 2 mt 95 confidence interval ci 2 0 20 4 mt macroplastics 3 0 mt ci 1 5 5 2 mt microplastics lost environment 2015,EVIDENCE
+983,major macroplastic loss source identified mismanaged municipal solid waste msw management low income lower middle income countries 4 1 mt,NO LABEL
+984,microplastics major sources abrasion tyre rubbers abrasion road markings plastics contributing city dust generation,NO LABEL
+985,curb marine plastic pollution quantified mapping needed evaluate magnitude plastics losses environment different sources locations enable assessment environmental damage,NO LABEL
+986,uncertainty sensitivity analyses highlight plastics sources prioritized research works obtain comprehensive accurate representation global plastics losses,NO LABEL
+987,ttitle cover crops increase decrease nitrous oxide emissions,NO LABEL
+988,meta analysis,NO LABEL
+989,abstract many environmental benefits incorporating cover crops crop rotations potential decrease soil erosion reduce nitrate no3 leaching increase soil organic matter,NO LABEL
+990,benefits impact agroecosystem processes greenhouse gas emissions,NO LABEL
+991,particular consensus literature regarding effect cover crops nitrous oxide n2o emissions,NO LABEL
+992,compared site specific studies meta analysis provide general investigation effects,NO LABEL
+993,twenty six peer reviewed articles including 106 observations cover crop effects n2o emissions soil surface analyzed according response ratio natural log n2o flux cover crop divided n2o flux without cover crop lrr,NO LABEL
+994,forty percent observations negative lrrs indicating cover crop treatment decreased n2o 60 positive lrrs indicating cover crop treatment increased n2o,EVIDENCE
+995,significant interaction n rate type cover crop legumes higher lrrs lower n rates nonlegume species,NO LABEL
+996,cover crop residues incorporated soil lrrs significantly higher residue incorporated,NO LABEL
+997,geographies higher total precipitation variability precipitation tended produce higher lrrs,CLAIM
+998,finally data points measured cover crop decomposition large positive lrrs larger measured cover crop alive,NO LABEL
+999,contrast data points measuring full year lrrs close zero indicating balance periods cover crops increased n2o periods cover crops decreased emissions,NO LABEL
+1000,therefore n2o measurements entire year may needed determine net effect cover crops n2o,NO LABEL
+1001,data included meta analysis indicate overarching crop management practices reduce direct n2o emissions soil surface soil incorporation residues use non legume cover crop species,NO LABEL
+1002,however results demonstrate cover crops always reduce direct n2o emissions soil surface short term work needed understand full global warming potential cover crop management,EVIDENCE
+1003,title global overview drought heat induced tree mortality reveals emerging climate change risks forests,NO LABEL
+1004,abstract greenhouse gas emissions significantly altered global climate continue future,NO LABEL
+1005,increases frequency duration severity drought heat stress associated climate change could fundamentally alter composition structure biogeography forests many regions,NO LABEL
+1006,particular concern potential increases tree mortality associated climate induced physiological stress interactions climate mediated processes insect outbreaks wildfire,CLAIM
+1007,despite risk existing projections tree mortality based models lack functionally realistic mortality mechanisms attempt track observations climate driven tree mortality globally,NO LABEL
+1008,present first global assessment recent tree mortality attributed drought heat stress,NO LABEL
+1009,although episodic mortality occurs absence climate change studies compiled suggest least world forested ecosystems already may responding climate change raise concern forests may become increasingly vulnerable higher background tree mortality rates die response future warming drought even environments normally considered water limited,NO LABEL
+1010,suggests risks ecosystem services including loss sequestered forest carbon associated atmospheric feedbacks,NO LABEL
+1011,review also identifies key information gaps scientific uncertainties currently hinder ability predict tree mortality response climate change emphasizes need globally coordinated observation system,NO LABEL
+1012,overall review reveals potential amplified tree mortality due drought heat forests worldwide,NO LABEL
+1013,title global estimates mortality associated long term exposure outdoor fine particulate matter,NO LABEL
+1014,abstract exposure ambient fine particulate matter pm2 5 major global health concern,NO LABEL
+1015,quantitative estimates attributable mortality based disease specific hazard ratio models incorporate risk information multiple pm2 5 sources outdoor indoor air pollution use solid fuels secondhand active smoking requiring assumptions equivalent exposure toxicity,NO LABEL
+1016,relax contentious assumptions constructing pm2 5 mortality hazard ratio function based cohort studies outdoor air pollution covers global exposure range,CLAIM
+1017,modeled shape association pm2 5 nonaccidental mortality using data 41 cohorts 16 countries global exposure mortality model gemm,NO LABEL
+1018,constructed gemms five specific causes death examined global burden disease gbd,NO LABEL
+1019,gemm predicts 8 9 million 95 confidence interval ci 7 5 10 3 deaths 2015 figure 30 larger predicted sum deaths among five specific causes 6 9 95 ci 4 9 8 5 120 larger risk function used gbd 4 0 95 ci 3 3 4 8,EVIDENCE
+1020,differences gemm gbd risk functions larger 20 reduction concentrations gemm predicting 220 higher excess deaths,EVIDENCE
+1021,results suggest pm2 5 exposure may related additional causes death five considered gbd incorporation risk information nonoutdoor particle sources leads underestimation disease burden especially higher concentrations,CLAIM
+1022,title maximising synergies disaster risk reduction climate change adaptation potential enablers improved planning outcomes,NO LABEL
+1023,abstract recent extreme weather events worldwide highlighted vulnerability many urban settlements future climatic change,NO LABEL
+1024,events expected increase frequency intensity climate change scenarios,NO LABEL
+1025,although climatic change may unavoidable effective planning response reduce impacts,NO LABEL
+1026,drawing empirical data 3 year multi sectoral study climate change adaptation human settlements south east queensland region australia paper draws multi sectoral perspectives propose enablers maximising synergies disaster risk reduction climate change adaptation achieve improved planning outcomes,NO LABEL
+1027,multi sectoral perspectives discussed four groups identified enablers spatial planning cross sectoral planning social community planning strategic long term planning,NO LABEL
+1028,based findings framework proposed guide planning systems maximise synergies fields disaster risk reduction climate change adaptation minimise vulnerability communities extreme weather events highly urbanised areas,NO LABEL
+1029,title china india lead greening world land use management,NO LABEL
+1030,abstract satellite data show increasing leaf area vegetation due direct factors human land use management indirect factors climate change co2 fertilization nitrogen deposition recovery natural disturbances,NO LABEL
+1031,among climate change co2 fertilization effects seem dominant drivers,NO LABEL
+1032,however recent satellite data 2000 2017 reveal greening pattern strikingly prominent china india overlaps croplands world wide,NO LABEL
+1033,china alone accounts 25 global net increase leaf area 6 6 global vegetated area,EVIDENCE
+1034,greening china forests 42 croplands 32 india mostly croplands 82 minor contribution forests 4 4,NO LABEL
+1035,china engineering ambitious programmes conserve expand forests goal mitigating land degradation air pollution climate change,NO LABEL
+1036,food production china india increased 35 since 2000 mostly owing increase harvested area multiple cropping facilitated fertilizer use surface groundwater irrigation,NO LABEL
+1037,results indicate direct factor key driver greening earth accounting third probably observed net increase green leaf area,NO LABEL
+1038,highlight need realistic representation human land use practices earth system models,NO LABEL
+1039,fire management climate variability challenges designing environmental regulations,NO LABEL
+1040,abstract designing fire management regulations challenging task given spatial temporal variation climate conditions,NO LABEL
+1041,using burning calendar fire management tool prevent forest fires mexico assessed temporal spatial overlap regulation climate variability fire use calakmul mexico,NO LABEL
+1042,based technical recommendations fieldwork defined ranges wind speed relative humidity rainfall needed burning,NO LABEL
+1043,studied conditions varied periods 10 50 years based meteorological records 5 locations,NO LABEL
+1044,participant observation agricultural burns interviews community leaders government officials allowed us study challenges following regulations,NO LABEL
+1045,results indicate legal time burn 4 11am average 1h suitable climate conditions agricultural fire,CLAIM
+1046,farmers burn afternoon moisture lower increasing chances successful agricultural burns 25 80 compared morning conditions,EVIDENCE
+1047,however afternoon wind speed tends increase elevating likelihood uncontrolled secondary fires,NO LABEL
+1048,terms seasonality period burn suitable years locations infallible,NO LABEL
+1049,environmental rules aimed fire management must sensitive local climate variations order achieve wildfire prevention support livelihood systems relying fire,NO LABEL
+1050,rules correspond physical context less likely followed legitimate actors whose behaviors intended regulated,EVIDENCE
+1051,effects household management practices global warming potential urban lawns,CLAIM
+1052,abstract nitrous oxide n2o emissions important component greenhouse gas ghg budget urban turfgrasses,NO LABEL
+1053,biogeochemical model dndc successfully captured magnitudes patterns n2o emissions observed urban turfgrass system richland creek watershed nashville tn,NO LABEL
+1054,model used study long term e 75 years impacts lawn management practice lmp soil organic carbon sequestration rate dsoc soil n2o emissions net global warming potentials net gwps,NO LABEL
+1055,model simulated n2o emissions net gwp three management intensity levels 75 years ranged 0 75 3 57 kg nha 1yr 1 697 2443 kg co2 eq ha 1yr 1 respectively suggested turfgrasses act net carbon emitter,EVIDENCE
+1056,reduction fertilization effective mitigate global warming potentials turfgrasses,NO LABEL
+1057,compared baseline scenario halving fertilization rate clipping recycle alternative synthetic fertilizer reduce net gwps 17 12 respectively,NO LABEL
+1058,addition reducing irrigation mowing also effective lowering net gwps,NO LABEL
+1059,minimum maintenance lmp without irrigation fertilization reduce annual n2o emissions net gwps approximately 53 70 respectively price gradual depletion soil organic carbon compared intensive maintenance lmp,NO LABEL
+1060,lawn age dependent best management practice recommended high dose fertilizer input initial stage lawn establishment enhance soc sequestration followed decreasing fertilization rate lawn ages minimize n2o emissions,CLAIM
+1061,minimum maintained lmp clipping recycling minimum irrigation mowing recommended mitigate global warming effects urban turfgrass systems,NO LABEL
+1062,among practices clipping recycle may relatively malleable behavior therefore good target interventions seeking reduce environmental impacts lawn management public education,NO LABEL
+1063,results suggest long term chronosequence study turfgrasses varying ages warranted capture complete dynamics contribution turfgrasses global warming,NO LABEL
+1064,title increase disaster risk due inefficient environmental management land use policies relocation policies,NO LABEL
+1065,case studies sri lanka,NO LABEL
+1066,abstract sri lanka affected multiple hazards april may 2017 appears floods landslides significant magnitude triggered southwest monsoon recurring annually,NO LABEL
+1067,climate hazards pose significant threat social economic development sri lanka,NO LABEL
+1068,addition climate hazards also increase man made hazards result rapid urbanization country,CLAIM
+1069,demand land cities sri lanka led use marginal land prone natural hazards floodplains unstable slopes reclaimed land unsuitable habitation,NO LABEL
+1070,municipal councils local authorities unable provide basic infrastructure services informal settlements sometimes use vulnerable areas low land value disposal grounds solid waste,NO LABEL
+1071,clearly mentioned national disaster management plan 2014 2017 solid waste become hazard future may take disastrous proportions,NO LABEL
+1072,recent collapse garbage dump sri lanka attributed poor environmental management respect solid waste country,NO LABEL
+1073,paper examines efficient environmental management relates resilience physical environment reducing disaster risk,NO LABEL
+1074,recent hazards urban areas show weaknesses control development urban areas country,NO LABEL
+1075,highlighted regulation urban expansion effective mechanism disaster risk reduction drr land use planning lup integral part national development planning,NO LABEL
+1076,urgent need resettlement relocation policy sri lanka address needs people displaced resettle disaster affected vulnerable populations discussed reference literature available make policy recommendations address,NO LABEL
+1077,title rapid range shifts species associated high levels climate warming,NO LABEL
+1078,abstract distributions many terrestrial organisms currently shifting latitude elevation response changing climate,NO LABEL
+1079,using meta analysis estimated distributions species recently shifted higher elevations median rate 11 0 meters per decade higher latitudes median rate 16 9 kilometers per decade,EVIDENCE
+1080,rates approximately two three times faster previously reported,NO LABEL
+1081,distances moved species greatest studies showing highest levels warming average latitudinal shifts generally sufficient track temperature changes,EVIDENCE
+1082,however individual species vary greatly rates change suggesting range shift species depends multiple internal species traits external drivers change,EVIDENCE
+1083,rapid average shifts derive wide diversity responses individual species,NO LABEL
+1084,assessing environmental performance trends transport industry eco innovation catching,NO LABEL
+1085,abstract paper analyses change environmental performance took place transport industry 38 countries years 1995 2009,NO LABEL
+1086,data envelopment analysis techniques directional distance functions employed compute luenberger productivity indicators change environmental performance determinants namely environmental technical change resulting eco innovation catching best available environmental technologies,NO LABEL
+1087,eight air pollutants account environmental contaminants transport activities aggregated three main categories environmental pressures namely global warming tropospheric ozone formation acidification potentials,NO LABEL
+1088,furthermore performance evaluation based specific environmental pressures managed,NO LABEL
+1089,principal findings show noticeable improvement environmental performance since 1990s primarily result eco innovations moreover improvement markedly greater low middle income economies bolstered case environmental technical progress catching,EVIDENCE
+1090,results reveal need policy measures aimed encouraging catching best available technologies particularly developed countries,NO LABEL
+1091,fat tailed risk climate change climate policy,NO LABEL
+1092,abstract paper investigates role emissions control welfare maximization fat tailed risk climate change,NO LABEL
+1093,provide classification fat tails discuss effect fat tailed risk climate policy,NO LABEL
+1094,one main findings emissions control may prevent strong tail effect arising least conditions bounded temperature increases low risk aversion low damage costs bounded utility function,NO LABEL
+1095,specifically fat tailed risk respect climate parameter necessarily lead unbounded carbon tax,NO LABEL
+1096,case basic principle cost benefit analysis maintains applicability,NO LABEL
+1097,effects soil warming rainfall reduction water table level ch4 emissions zoige peatland china,NO LABEL
+1098,abstract zoige plateau features approximately 4605 km2 peatlands making largest peatland area china,NO LABEL
+1099,area stored 2 9 pg peat holocene yet little known methane ch4 emissions region,NO LABEL
+1100,study designed mesocosm experiment measure ch4 emissions growing seasons 2009 2010 different scenarios involving soil warming 20 reduction rainfall changes water table level,NO LABEL
+1101,results showed ch4 emissions higher 2009 2010 experimental conditions,EVIDENCE
+1102,average soil temperature approximately 11 4 c control conditions 13 3 c soil warming conditions 12 7 c 20 rainfall reduction 13 4 c combined conditions soil warming 20 reduced rainfall,NO LABEL
+1103,single factor effect soil warming treatment increased average ch4 emissions 28 rainfall reduction increased 30 however neither increase statistically significant,EVIDENCE
+1104,contrast combined effect soil warming rainfall reduction significantly decreased ch4 emissions average 58,EVIDENCE
+1105,extending result across entire peatland area zoige plateau translates approximately 5 3 gg ch4 uptake per year,NO LABEL
+1106,results suggest drier warmer zoige plateau become ch4 sink,EVIDENCE
+1107,study also found positive relationship water table level ch4 emissions,CLAIM
+1108,average ch4 emissions decreased approximately 82 water drawdown varied 0 0 94 mg ch4 2 h 1 50 cm 0 17 mg ch4 2 h 1,EVIDENCE
+1109,simultaneously examined effect three factors water table level soil warming rainfall reduction ch4 emissions found soil warming rainfall effect ch4 emissions varied water table levels,NO LABEL
+1110,however none three factors significantly affected ch4 emissions water table depth 30 cm peat depth,NO LABEL
+1111,role china mitigating climate change,NO LABEL
+1112,abstract explore short long term implications several energy scenarios china role efforts mitigate global climate risk,NO LABEL
+1113,focus impacts china energy system gdp growth global climate indicators greenhouse gas concentrations radiative forcing global temperature change,NO LABEL
+1114,employ mit integrated global system model igsm framework economic component mit emissions prediction policy analysis eppa model,NO LABEL
+1115,demonstrate china commitments 2020 made un climate meetings copenhagen cancun reachable modest cost,NO LABEL
+1116,alternative actions china next 10years yield substantial changes ghg concentrations temperature due inertia climate system,NO LABEL
+1117,consideration longer term climate implications copenhagen type commitments requires assumption policies 2020 effects differ drastically depending case,NO LABEL
+1118,meeting 2 c target problematic unless radical ghg emission reductions assumed short term,NO LABEL
+1119,participation non participation china global climate architecture lead 2100 200 280ppm difference atmospheric ghg concentration result 1 1 c 1 3 c change end century,NO LABEL
+1120,conclude essential engage china ghg emissions mitigation policies alternative actions lead substantial differences climate energy economic outcomes,CLAIM
+1121,potential channels engaging china air pollution control involvement sectoral trading established emissions trading systems developed countries,NO LABEL
+1122,global warming back envelope calculations,NO LABEL
+1123,abstract several simple calculations measurements effort gain understanding global warming carbon cycle,NO LABEL
+1124,conclusions interesting global warming since end little ice age around 1700,CLAIM
+1125,statistically significant evidence acceleration global warming since 1940,CLAIM
+1126,ii increase co 2 atmosphere beginning around 1940 accurately tracks burning fossil fuels,NO LABEL
+1127,burning remaining economically viable reserves oil gas coal next 150 years approximately double pre industrial atmospheric concentration co 2,NO LABEL
+1128,corresponding increase average temperature due greenhouse effect quite uncertain 1 3 4 8k,EVIDENCE
+1129,increase temperature partially,NO LABEL
+1130,offset increase aerosols deforestation,NO LABEL
+1131,iii ice core samples indicate pre historic co 2 concentration temperature well correlated,NO LABEL
+1132,conclude changes temperatures oceans probably cause changes pre historic atmospheric co 2 concentration,NO LABEL
+1133,iv data suggests large volcanic explosions trigger transitions glacial interglacial climates,CLAIM
+1134,v carbon fixed photosynthesis amazon basin returns atmosphere due aerobic decay,NO LABEL
+1135,including indirect environmental impacts waste management planning,NO LABEL
+1136,abstract activities within waste management systems energy material recovery lead indirect environmental impacts occur outside waste management systems,NO LABEL
+1137,paper effect including indirect greenhouse gas emissions choice waste management solutions national level explored,NO LABEL
+1138,global warming potentials gwps future waste management solutions sweden compared,NO LABEL
+1139,include direct indirect gwps resulting recovering power heat biogas materials nutrients,NO LABEL
+1140,furthermore two assumptions presumed crucial determining indirect gwps examined sensitivity analyses,NO LABEL
+1141,found indirect gwps waste management could large comparing range waste management solutions,NO LABEL
+1142,including indirect gwps may even change ranking solutions,NO LABEL
+1143,however estimates indirect gwps sensitive assumptions made,NO LABEL
+1144,including involves large uncertainties,NO LABEL
+1145,despite general conclusions regarding preferability respective solutions drawn,CLAIM
+1146,including indirect environmental impacts important providing information support strategic planning involves choosing among waste management solutions,NO LABEL
+1147,ultimately question improving ability waste management planners design environmentally sustainable robust waste management systems,NO LABEL
+1148,increased knowledge indirect environmental impacts waste management contribute providing improvement,EVIDENCE
+1149,parameters affecting environmental impact range dairy farming systems denmark germany italy,NO LABEL
+1150,abstract environmental impact 12 dairy farms denmark germany italy evaluated using lca approach important parameters influencing environmental sustainability identified,NO LABEL
+1151,farms represent different production methods organic vs conventional summer feeding systems confinement vs pasture annual production levels 6275 10 964 kg ecm cow 1,EVIDENCE
+1152,large variability stocking rates 1 1 11 0 lu ha 1 among farms major impact production per unit area farmland feed self sufficiency farm surplus nitrogen,NO LABEL
+1153,proportion grassland farmland used forage production pasture varied 0 100,EVIDENCE
+1154,lowest global warming potential gwp acidification eutrophication non renewable energy use achieved german pasture based system followed danish organic dairy system intensive italian farming system similar environmental impact values,NO LABEL
+1155,however sensitivity analysis showed emissions relating direct land use change soybean production included assessment gwp changed considerably conventional farms due inclusion conventional soymeal feed concentrate,NO LABEL
+1156,strong positive correlations four impact categories overall results indicate improving greenhouse gas emissions would improve general environmental sustainability dairy farm,EVIDENCE
+1157,land occupation lowest farms highest stocking rate,NO LABEL
+1158,organic danish farms lowest impact biodiversity loss general positively influenced share grassland system,EVIDENCE
+1159,high proportion grassland also significant positive effect gwp acidification energy use,CLAIM
+1160,feature mainly improved environmental impact feed efficiency dairy cows negatively correlated gwp acidification eutrophication,NO LABEL
+1161,found relation environmental impact milk production per cow stocking rate farm,NO LABEL
+1162,however due limited number observations 12 farms assessed results correlation analyses handled care,NO LABEL
+1163,also large variation relative contributions farm activities among farms different impact categories showing importance holistic approach difficulties evaluating farming system product area based perspective,CLAIM
+1164,organ donation suicides,NO LABEL
+1165,introduction reports literature analyzing brain death epidemiology suicides rate donation family authorization situations,NO LABEL
+1166,objective objectives study analyze frequency suicide cause brain death compare donation rates among population causes brain death,NO LABEL
+1167,patients methods reviewed records 2627 potential donors 1988 2004,NO LABEL
+1168,results within period 101 3 8 cases brain death recorded suicides,EVIDENCE
+1169,mean age significantly lower p 05 cases suicide causes 26 2 11 1 vs 34 4 16 5 years male prevalence 76 2 vs 60 8,EVIDENCE
+1170,suicides donation rate significantly higher situations 62 3 vs 43 8,EVIDENCE
+1171,due lower rate negative family responses 17 8 vs 32 1,EVIDENCE
+1172,conclusions suicide frequent cause brain death 3 8 mainly among young men,CLAIM
+1173,donation rate group higher due causes death lower negative response rate family,NO LABEL
+1174,explanation remains clarified low refusal rate organ donation relatives potential donors due suicide,NO LABEL
+1175,national regional relationships carbon storage tropical biodiversity,NO LABEL
+1176,abstract tropical forests host highest levels biodiversity maintain largest carbon stocks terrestrial ecosystems,NO LABEL
+1177,policies resulting united nations framework convention climate change unfcc forest based climate change mitigation e g reducing emissions deforestation forest degradation redd considered win win solutions c storage biodiversity conservation,NO LABEL
+1178,win win solutions indeed apparent geographical overlap high carbon density forests high biodiversity suggested many global studies,NO LABEL
+1179,however strong congruence high carbon storage biodiversity national subnational levels less obvious,EVIDENCE
+1180,improve national policies expectations redd outcomes necessary account potential risks relocating deforestation activities high carbon areas low carbon areas relocation may negatively affect high biodiversity habitats,NO LABEL
+1181,using combined dataset global national biodiversity c storage examined whether optimization carbon biodiversity suggested win win situation,NO LABEL
+1182,identified hotspots c storage biodiversity within colombia demographic land use factors affect spatial distribution current patterns biodiversity c also identified mapped two additional forest carbon biodiversity relationships areas high carbon low biodiversity areas low carbon high biodiversity represented relevant conservation trade offs national subnational levels,NO LABEL
+1183,results suggest although c storage biodiversity hotspots still overlap nationally subnationally relationship two types hotspots weaker global level,CLAIM
+1184,additionally areas high carbon high biodiversity overlap extensive potential win win areas,NO LABEL
+1185,simultaneous carbon biodiversity conservation straightforward appears global level,NO LABEL
+1186,countries must swiftly identify areas unintentional negative biodiversity consequences may result national redd strategies future research identify factors affect c storage biodiversity national subnational levels,NO LABEL
+1187,spatiotemporal distribution patterns atmospheric methane using gosat data iran,NO LABEL
+1188,abstract methane ch4 simplest hydrocarbon atmosphere second important greenhouse gas ghg carbon dioxide co2 whose concentration changing due human activities,EVIDENCE
+1189,main objective study examine spatial distribution ch4 concentration iran 2013 based level 2 gosat data using ordinary kriging technique,NO LABEL
+1190,purpose first relationship ch4 concentration environmental variables land surface temperature lst normalized difference vegetation index ndvi air temperature humidity determined,NO LABEL
+1191,results showed ch4 concentration changes gradually latitude longitude across iran,CLAIM
+1192,spatial distribution ch4 concentration presents high concentration gas southern hemisphere east study area throughout year,NO LABEL
+1193,correlation ch4 concentration lst temperature positive correlation ndvi humidity negative different seasons 2013,EVIDENCE
+1194,implies decline temperature lst rise humidity ndvi ch4 concentration decreased study area,EVIDENCE
+1195,possible transfer ch4 gas south southeast iran according location flaring gas wind speed direction different seasons,NO LABEL
+1196,findings help decision makers better management sinks sources ghgs,CLAIM
+1197,climate change impacts farm production landscape appearance environment policy scenario results integrated field farm landscape model austria,NO LABEL
+1198,abstract climate change among major drivers agricultural land use change demands autonomous farm adaptation well public mitigation adaptation policies,NO LABEL
+1199,article present integrated land use model ilm mainly combining bio physical model bio economic farm model field farm landscape levels,NO LABEL
+1200,ilm applied cropland dominated landscape austria analyze impacts climate change mitigation adaptation policy scenarios farm production well abiotic environment biotic environment,NO LABEL
+1201,changes aggregated total farm gross margins three climate change scenarios 2040 range 1 5 without policy intervention compared reference situation current climate,EVIDENCE
+1202,changes aggregated gross margins even higher adaptation policies place,EVIDENCE
+1203,however increasing productivity climate change leads deteriorating environmental conditions declining plant species richness landscape appearance,NO LABEL
+1204,balanced mitigation adaptation policies taking account effects considerable spatial heterogeneity revealed ilm,NO LABEL
+1205,new model assess environmental impact sustainability energy systems,NO LABEL
+1206,abstract study develops novel sustainability assessment methodology energy systems using life cycle emission factors sustainability indicators,NO LABEL
+1207,global warming environmental impact dimensions sustainability assessment methodology examined detail,NO LABEL
+1208,comparative analysis shows wind battery system produces fewer potential global warming stratospheric ozone depletion air pollution water pollution impacts compared gas fired system,NO LABEL
+1209,wind battery system generates 13 life cycle ghg emissions 22 life cycle ozone depleting substance emissions gas fired power plant,NO LABEL
+1210,nitrous oxide contributes 90 stratospheric ozone depletion potential gas fired wind battery systems,NO LABEL
+1211,assessing propagation uncertainties multi objective optimization agro ecosystem adaptation climate change,NO LABEL
+1212,abstract widely acknowledged uncertainty needs accounted climate impact studies scenario analyses optimization applications,NO LABEL
+1213,study investigate climate crop model uncertainties affect multi objective optimization outputs aiming identify optimum agricultural management adaptations western switzerland,NO LABEL
+1214,results visualized ternary plots map optimum management measures crop yield erosion leaching associated uncertainties navigating optimum adaptation space,EVIDENCE
+1215,find relevance climate model vs parameter uncertainty differ substantially depending prioritization objectives local conditions,CLAIM
+1216,optimum choice irrigation level found decision variable subject greatest uncertainty particularly coarser soil,NO LABEL
+1217,finding suggests long term planning irrigation infrastructure management robust adaptation approach required approaching unavoidable uncertainty risk management perspective,CLAIM
+1218,communicating climate change uncertainties simulation games boundary objects,NO LABEL
+1219,abstract climate science characterized large uncertainties direction extent time frame climate change,NO LABEL
+1220,communicating uncertainties important decision making robust adaptation strategies proves challenge scientists particularly complexity uncertainties part natural variability human induced climate change,CLAIM
+1221,aim paper assess role simulation game intermediate communication climate change uncertainties water managers,NO LABEL
+1222,three workshops water managers simulation game sustainable delta played test influence game understanding climate change uncertainty using ex ante ex post surveys,NO LABEL
+1223,workshop experimental control group given different assignments measure influence game,NO LABEL
+1224,results show although differences groups statistically significant change understanding uncertainties observed,EVIDENCE
+1225,paper concludes learning effect game inconclusive game fosters broader understanding concept climate change uncertainty,NO LABEL
+1226,simulation games promising approach support communication climate change uncertainties meaningfully support process adaptation uncertain future,NO LABEL
+1227,comparing environmental impacts beef production systems review life cycle assessments,NO LABEL
+1228,abstract livestock production especially beef production major impact environment,NO LABEL
+1229,environmental impacts however vary largely among beef systems,NO LABEL
+1230,understanding differences crucial mitigate impacts future global beef production,NO LABEL
+1231,objective research therefore compare cradle farm gate environmental impacts beef produced contrasting systems,NO LABEL
+1232,reviewed 14 studies compared contrasting systems using life cycle assessment lca,NO LABEL
+1233,systems studied classified three main characteristics beef production origin calves bred dairy cow suckler cow type production organic non organic type diet fed fattening calves 50 roughage based 50 concentrate based concentrates,NO LABEL
+1234,review yielded lower global warming potential gwp average 41 lower acidification potential 41 lower eutrophication potential 49 lower energy use 23 lower land use 49 lower per unit beef dairy based compared suckler based systems,NO LABEL
+1235,suckler based systems maintaining mother cow dominant contributor impacts attributable low reproductive rate cattle fact emissions allocated production beef,NO LABEL
+1236,gwp slightly lower average 7 organic compared non organic systems whereas organic systems showed higher eutrophication potential acidification potential land use 36 56 22 higher lower energy use 30 lower per unit beef produced,EVIDENCE
+1237,except gwp however results interpreted care impacts compared studies,NO LABEL
+1238,lower gwp average 28 lower energy use 13 lower land use 41 lower per unit beef found concentrate based compared roughage based systems whereas clear pattern found acidification eutrophication potential,EVIDENCE
+1239,lca comparison beef systems differ type diet however limited current lca methodology account competition land humans animals,NO LABEL
+1240,enhance future food supply grassland less suitable crop production therefore might preferred high productive cropland direct production animal feed,NO LABEL
+1241,furthermore studies included review include relevant impact categories loss biodiversity water use,NO LABEL
+1242,concluded beef production dual purpose cows dairy cows inseminated beef breeds show largest potential mitigate environmental impacts beef,NO LABEL
+1243,marginal grasslands unsuitable dairy farming may used production suckler based beef contribute availability access animal source food,NO LABEL
